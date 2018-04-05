@@ -82,5 +82,12 @@
 		"date": "2018-01-17",
 		"title": "Tredje utgave av lovkommentaren til opplæringslova er nå publisert",
 		"description": "Opplæringslova regulerer opplæring i grunnskole og videregående opplæring i Norge, herunder voksenopplæring og fagopplæring i bedrift. Siden bokens andre utgave kom ut i januar 2007, er det vedtatt en rekke endringer i opplæringslova med forskrifter. Loven har blant annet fått ny formålsparagraf og nye bestemmelser om reklame, ulykkesforsikring og leksehjelp."
+	},
+	{
+		"id": 13,
+		"type": "recent_change",
+		"date": "2018-04-05",
+		"title": "Ny funksjon – utdrag fra litteratur og lovkommentarer",
+		"description": "<p>Funksjonen for å lage utdrag fra litteratur og lovkommentarer er nå tilgjengelig på Juridika. Man kan foreta utdrag ved å klikke på <strong>last ned</strong> øverst i høyre hjørne når man har åpnet en bok eller lovkommentar.</p><p>Utdragsfunksjonen er fortsatt under utvikling, og neste uke vil den være tilgjengelig også for våre tidsskrifter. På sikt blir det laget et verktøy for å sammenstille utdrag fra flere lovkommentarer, samt for sammenstilling av lovkommentarer med annen litteratur.</p>"
 	}
 ]
