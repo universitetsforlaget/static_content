@@ -1,0 +1,402 @@
+[
+  {
+    "shortTitle": "Trafikkregler",
+    "exprId": {
+      "date": "1986-03-21",
+      "inForceAt": "2017-01-01",
+      "base": "NL",
+      "seq": 747,
+      "type": "forskrift"
+    }
+  },
+  {
+    "shortTitle": "Inkassoforskriften",
+    "exprId": {
+      "date": "1989-07-14",
+      "inForceAt": "2013-03-16",
+      "base": "NL",
+      "seq": 562,
+      "type": "forskrift"
+    }
+  },
+  {
+    "shortTitle": "Alkoholforskriften",
+    "exprId": {
+      "date": "2005-06-08",
+      "inForceAt": "2017-07-01",
+      "base": "NL",
+      "seq": 538,
+      "type": "forskrift"
+    }
+  },
+  {
+    "shortTitle": "Våpeninstruks for politiet",
+    "exprId": {
+      "date": "2015-07-02",
+      "inForceAt": "2016-05-03",
+      "base": "NL",
+      "seq": 1088,
+      "type": "forskrift"
+    }
+  },
+  {
+    "shortTitle": "Straffeloven 1902 (Opphevet) - (strl. 1902)",
+    "exprId": {
+      "date": "1902-05-22",
+      "inForceAt": "1995-01-01",
+      "base": "NL",
+      "seq": 10,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Domstolloven - (dl)",
+    "exprId": {
+      "date": "1915-08-13",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 5,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Skjønnsprosessloven - (skjl)",
+    "exprId": {
+      "date": "1917-06-01",
+      "inForceAt": "2016-04-22",
+      "base": "NL",
+      "seq": 1,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Gjeldsbrevlova - (gbl.)",
+    "exprId": {
+      "date": "1939-02-17",
+      "inForceAt": "2013-07-01",
+      "base": "NL",
+      "seq": 1,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Deponeringslova - (depl.)",
+    "exprId": {
+      "date": "1939-02-17",
+      "inForceAt": "1959-01-01",
+      "base": "NL",
+      "seq": 2,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Oreigningsloven - (orl)",
+    "exprId": {
+      "date": "1959-10-23",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 3,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Vegtrafikkloven - (vtrl)",
+    "exprId": {
+      "date": "1965-06-18",
+      "inForceAt": "2017-10-01",
+      "base": "NL",
+      "seq": 4,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Arvelova - (al)",
+    "exprId": {
+      "date": "1972-03-03",
+      "inForceAt": "2017-01-01",
+      "base": "NL",
+      "seq": 5,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Odelslova - (odl)",
+    "exprId": {
+      "date": "1974-06-28",
+      "inForceAt": "2017-09-01",
+      "base": "NL",
+      "seq": 58,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Ligningsloven - (lignl)",
+    "exprId": {
+      "date": "1980-06-13",
+      "inForceAt": "2016-12-02",
+      "base": "NL",
+      "seq": 24,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Barnelova - (bl)",
+    "exprId": {
+      "date": "1981-04-08",
+      "inForceAt": "2017-09-01",
+      "base": "NL",
+      "seq": 7,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Straffeprosessloven - (strpl)",
+    "exprId": {
+      "date": "1981-05-22",
+      "inForceAt": "2015-10-01",
+      "base": "NL",
+      "seq": 25,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Viltloven - (viltl)",
+    "exprId": {
+      "date": "1981-05-29",
+      "inForceAt": "2016-11-18",
+      "base": "NL",
+      "seq": 38,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Inkassoloven - (inkl)",
+    "exprId": {
+      "date": "1988-05-13",
+      "inForceAt": "2017-04-18",
+      "base": "NL",
+      "seq": 26,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Alkoholloven - (alkhl)",
+    "exprId": {
+      "date": "1989-06-02",
+      "inForceAt": "2017-07-01",
+      "base": "NL",
+      "seq": 27,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Tvangsfullbyrdelsesloven - (tvangsl)",
+    "exprId": {
+      "date": "1992-06-26",
+      "inForceAt": "2017-06-01",
+      "base": "NL",
+      "seq": 86,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Lov om løysingsrettar - (løysl)",
+    "exprId": {
+      "date": "1994-12-09",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 64,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Petroleumsloven - (petrl)",
+    "exprId": {
+      "date": "1996-11-29",
+      "inForceAt": "2015-10-01",
+      "base": "NL",
+      "seq": 72,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Tomtefestelova - (tfl)",
+    "exprId": {
+      "date": "1996-12-20",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 106,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Eierseksjonsloven - (eiersl)",
+    "exprId": {
+      "date": "1997-05-23",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 31,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Aksjeloven - (asl.)",
+    "exprId": {
+      "date": "1997-06-13",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 44,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": " Allmennaksjeloven - (asal.)",
+    "exprId": {
+      "date": "1997-06-13",
+      "inForceAt": "2017-07-01",
+      "base": "NL",
+      "seq": 45,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Opplæringslova - (oppll)",
+    "exprId": {
+      "date": "1998-07-17",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 61,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Voldgiftsloven - (vogl)",
+    "exprId": {
+      "date": "2004-05-14",
+      "inForceAt": "2008-01-01",
+      "base": "NL",
+      "seq": 25,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Straffeloven 2005 - (strl 2005)",
+    "exprId": {
+      "date": "2005-05-20",
+      "inForceAt": "2017-07-01",
+      "base": "NL",
+      "seq": 28,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Arbeidsmiljøloven - (aml)",
+    "exprId": {
+      "date": "2005-06-17",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 62,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Tvisteloven - (tvl)",
+    "exprId": {
+      "date": "2005-06-17",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 90,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Utlendingsloven - (utlendl.)",
+    "exprId": {
+      "date": "2008-05-15",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 35,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Dyrevelferdsloven",
+    "exprId": {
+      "date": "2009-06-19",
+      "inForceAt": "2015-10-01",
+      "base": "NL",
+      "seq": 97,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Tjenesteloven",
+    "exprId": {
+      "date": "2009-06-19",
+      "inForceAt": "2009-12-28",
+      "base": "NL",
+      "seq": 103,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Jordskifteloven - (jskl)",
+    "exprId": {
+      "date": "2013-06-21",
+      "inForceAt": "2018-06-21",
+      "base": "NL",
+      "seq": 100,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Pasientjournalloven",
+    "exprId": {
+      "date": "2014-06-20",
+      "inForceAt": "2017-10-01",
+      "base": "NL",
+      "seq": 42,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Helseregisterloven - (hregl)",
+    "exprId": {
+      "date": "2014-06-20",
+      "inForceAt": "2017-10-01",
+      "base": "NL",
+      "seq": 43,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Konfliktrådsloven - (konfrådl)",
+    "exprId": {
+      "date": "2014-06-20",
+      "inForceAt": "2015-10-01",
+      "base": "NL",
+      "seq": 49,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Skatteforvaltningsloven - (sktfvl)",
+    "exprId": {
+      "date": "2016-05-27",
+      "inForceAt": "2017-10-01",
+      "base": "NL",
+      "seq": 14,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Mineralloven",
+    "exprId": {
+      "date": "2009-06-19",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 101,
+      "type": "lov"
+    }
+  }
+]
