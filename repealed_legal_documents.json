@@ -2,36 +2,72 @@
   {
     "identifier": "1902-05-22-10",
     "shortTitle": "Straffeloven 1902",
-    "mirror": "2005-05-20-28"
+    "mirror": {
+      "shortTitle": "Straffeloven 2005",
+      "base": "NL",
+      "type": "lov",
+      "date": "2005-05-20",
+      "seq": "28"
+    }
   },
   {
     "identifier": "1980-06-13-24",
     "shortTitle": "Ligningsloven",
-    "mirror": "2016-05-27-14"
+    "mirror": {
+      "shortTitle": "Skatteforvaltningsloven",
+      "base": "NL",
+      "type": "lov",
+      "date": "2016-05-27",
+      "seq": "14"
+    }
   },
   {
     "identifier": "1997-05-23-31",
     "shortTitle": "Eierseksjonsloven",
-    "mirror": "2017-06-16-65"
+    "mirror": null
   },
   {
     "identifier": "1915-08-13-6",
     "shortTitle": "Tvistemålsloven",
-    "mirror": "2005-06-17-90"
+    "mirror": {
+      "shortTitle": "",
+      "base": "NL",
+      "type": "lov",
+      "date": "2005-06-17",
+      "seq": "90"
+    }
   },
   {
     "identifier": "1975-05-30-20",
     "shortTitle": "Tomtefestelov",
-    "mirror": "1996-12-20-106"
+    "mirror": {
+      "shortTitle": "",
+      "base": "NL",
+      "type": "lov",
+      "date": "1996-12-20",
+      "seq": "106"
+    }
   },
   {
     "identifier": "1979-12-21-77",
     "shortTitle": "Jordskiftelov",
-    "mirror": "2013-06-21-100"
+    "mirror": {
+      "shortTitle": "",
+      "base": "NL",
+      "type": "lov",
+      "date": "2013-06-21",
+      "seq": "100"
+    }
   },
   {
     "identifier": "1985-06-14-77",
     "shortTitle": "Plan- og bygningslov",
-    "mirror": "2008-06-27-71"
+    "mirror": {
+      "shortTitle": "",
+      "base": "NL",
+      "type": "lov",
+      "date": "2008-06-27",
+      "seq": "71"
+    }
   }
 ]
