@@ -3,6 +3,8 @@
     "identifier": "1902-05-22-10",
     "shortTitle": "Straffeloven 1902",
     "mirror": {
+      "published": true,
+      "fullTitle": "Lov 20. mai 2005 nr. 28 om straff",
       "shortTitle": "Straffeloven 2005",
       "base": "NL",
       "type": "lov",
@@ -14,6 +16,8 @@
     "identifier": "1980-06-13-24",
     "shortTitle": "Ligningsloven",
     "mirror": {
+      "published": true,
+      "fullTitle": "Lov 27. mai 2016 nr. 14 om skatteforvaltning",
       "shortTitle": "Skatteforvaltningsloven",
       "base": "NL",
       "type": "lov",
@@ -24,7 +28,15 @@
   {
     "identifier": "1997-05-23-31",
     "shortTitle": "Eierseksjonsloven",
-    "mirror": null
+    "mirror": {
+      "published": false,
+      "fullTitle": "Lov 16. juni 2017 nr. 65 om eierseksjoner",
+      "shortTitle": "Eierseksjonsloven",
+      "base": "NL",
+      "type": "lov",
+      "date": "2017-06-16",
+      "seq": "65"
+    }
   },
   {
     "identifier": "1915-08-13-6",
