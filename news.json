@@ -118,5 +118,13 @@
     "published_at": "2018-04-11T08:00:00.000Z",
     "title": "Endringer i lov om tomtefeste er kommentert av forfatter 23.3.2018",
     "description": "Oppdateringen omhandler endringer på bakgrunn av Lov om endringer i rettergangslovgivningen mv. (organiseringen av den sivile rettspleien på grunnplanet) (LOV-2017-05-11-26). Dette medførte endringer i <a href='/documents/NL/lov/1996-12-20-106?fragment=chapter_ix__section_43#chapter_ix__section_43'>lovens § 43</a>, hvor blant annet første ledd annet punktum ble opphevet."
+  },
+  {
+    "id": 17,
+    "type": "recent_change",
+    "date": "2018-04-27",
+    "published_at": "2018-04-27T08:00:00.000Z",
+    "title": "Ny funksjon - søk i lover og kommentarer",
+    "description": "<p>Funksjonen for å søke i lover og kommentarer er nå tilgjengelig på Juridika. I søkefunksjonen kan du søke etter bestemte paragrafer, eller spesifikke ord i en bestemmelse eller kommentar.</p><p>Vi jobber med å optimalisere relevansen i søketreff og å videreutvikle søkefunksjonen. På sikt vil du også kunne søke i tidsskrifter, fagbøker og forfatteroversikten.</p>"
   }
 ]
