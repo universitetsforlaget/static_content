@@ -398,5 +398,15 @@
       "seq": 101,
       "type": "lov"
     }
+  },
+  {
+    "shortTitle": "Personvernforordningen",
+    "exprId": {
+      "date": "2016-04-27",
+      "inForceAt": "2018-07-01",
+      "base": "NL",
+      "seq": 679,
+      "type": "lov"
+    }
   }
 ]
