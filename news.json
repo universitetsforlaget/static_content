@@ -126,5 +126,13 @@
     "published_at": "2018-04-27T08:00:00.000Z",
     "title": "Ny funksjon - søk i lover og kommentarer",
     "description": "<p>Funksjonen for å søke i lover og kommentarer er nå tilgjengelig på Juridika. I søkefunksjonen kan du søke etter bestemte paragrafer, eller spesifikke ord i en bestemmelse eller kommentar.</p><p>Vi jobber med å optimalisere relevansen i søketreff og å videreutvikle søkefunksjonen. På sikt vil du også kunne søke i tidsskrifter, fagbøker og forfatteroversikten.</p>"
+  },
+  {
+    "id": 18,
+    "type": "recent_change",
+    "date": "2018-05-11",
+    "published_at": "2018-05-11T08:00:00.000Z",
+    "title": "Personvernforordningen (GDPR) – ajourført kommentar er nå tilgjengelig på Juridika",
+    "description": "EUs personvernforordning er forventet å tre i kraft i Norge 1. juli 2018. Med forordningen er et nytt regelverk for behandling av personopplysninger i privat og offentlig sektor innført. I den <a href='/lov/2016-04-27-679'>ajourførte kommentaren</a> får man veiledning i hvordan de enkelte bestemmelsene i forordningen kan forstås og anvendes."
   }
 ]
