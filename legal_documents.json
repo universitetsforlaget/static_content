@@ -90,7 +90,7 @@
     }
   },
   {
-    "shortTitle": "Oreigningsloven - (orl)",
+    "shortTitle": "Oreigningslova - (orl)",
     "exprId": {
       "date": "1959-10-23",
       "inForceAt": "2018-01-01",
@@ -153,7 +153,7 @@
     "shortTitle": "Straffeprosessloven - (strpl)",
     "exprId": {
       "date": "1981-05-22",
-      "inForceAt": "2015-10-01",
+      "inForceAt": "2018-05-06",
       "base": "NL",
       "seq": 25,
       "type": "lov"
@@ -243,7 +243,7 @@
     "shortTitle": "Aksjeloven - (asl.)",
     "exprId": {
       "date": "1997-06-13",
-      "inForceAt": "2018-01-01",
+      "inForceAt": "2018-05-02",
       "base": "NL",
       "seq": 44,
       "type": "lov"
@@ -253,7 +253,7 @@
     "shortTitle": " Allmennaksjeloven - (asal.)",
     "exprId": {
       "date": "1997-06-13",
-      "inForceAt": "2017-07-01",
+      "inForceAt": "2018-05-02",
       "base": "NL",
       "seq": 45,
       "type": "lov"
@@ -283,7 +283,7 @@
     "shortTitle": "Straffeloven 2005 - (strl 2005)",
     "exprId": {
       "date": "2005-05-20",
-      "inForceAt": "2017-07-01",
+      "inForceAt": "2018-05-06",
       "base": "NL",
       "seq": 28,
       "type": "lov"
@@ -340,7 +340,7 @@
     }
   },
   {
-    "shortTitle": "Jordskifteloven - (jskl)",
+    "shortTitle": "Jordskiftelova - (jskl)",
     "exprId": {
       "date": "2013-06-21",
       "inForceAt": "2018-06-21",
@@ -396,6 +396,16 @@
       "inForceAt": "2018-01-01",
       "base": "NL",
       "seq": 101,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Personvernforordningen",
+    "exprId": {
+      "date": "2016-04-27",
+      "inForceAt": "2018-07-01",
+      "base": "NL",
+      "seq": 679,
       "type": "lov"
     }
   }
