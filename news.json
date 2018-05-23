@@ -158,5 +158,13 @@
     "published_at": "2018-05-15T08:10:00.000Z",
     "title": "11. utgave av Statsforfatningen i Norge er publisert på Juridika",
     "description": "<a href='/faglitteratur/statsforfatningen-i-norge/11'>Statsforfatningen i Norge</a> gir en inngående fremstilling av norsk statsforfatningsrett, Norges konstitusjonelle og grunnlovbestemte rett. På <a href='https://ublogg.no/fra-grini-til-juridika/'>Ublogg</a> kan du lese om hvordan manuset første gang ble nedskrevet av Andenæs på dopapir på Grini under andre verdenskrig. Vår forlagssjef, Hege Gundersen, trekker de store linjene fra Grini frem til Universitetsforlagets største digitale satsning noensinne med Juridika."
+  },
+  {
+    "id": 22,
+    "type": "recent_change",
+    "date": "2018-05-22",
+    "published_at": "2018-05-22T08:10:00.000Z",
+    "title": "Ny søkefunksjon – avgrens utvalg",
+    "description": "Nå kan du <em>filtrere</em> søket på Juridika. Når ditt søketreff har kommet opp kan du velge å avgrense utvalget i <em>trefflisten</em>. Du kan avgrense til en enkelt kilde eller velge flere kilder."
   }
 ]
