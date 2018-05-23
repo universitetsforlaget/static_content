@@ -211,7 +211,7 @@
   {
     "id": 21,
     "has_full_page_article": false,
-    "type": "recent_change",
+    "type": "literature",
     "date": "2018-05-15",
     "published_at": "2018-05-15T08:10:00.000Z",
     "title": "11. utgave av Statsforfatningen i Norge er publisert på Juridika",
@@ -222,7 +222,7 @@
   {
     "id": 22,
     "has_full_page_article": false,
-    "type": "recent_change",
+    "type": "juridika",
     "date": "2018-05-22",
     "published_at": "2018-05-22T08:10:00.000Z",
     "title": "Ny søkefunksjon – avgrens utvalg",
