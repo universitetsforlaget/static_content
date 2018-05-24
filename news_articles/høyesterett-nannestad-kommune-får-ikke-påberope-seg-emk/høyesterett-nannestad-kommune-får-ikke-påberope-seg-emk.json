@@ -1,8 +1,12 @@
 {
   "id": "høyesterett-nannestad-kommune-får-ikke-påberope-seg-emk",
-  "published_at": "2018-05-15T16:10:00.000Z",
+  "has_full_page_article": true,
   "type": "news_article",
-  "contributers": [
+  "published_at": "2018-05-15T16:10:00.000Z",
+  "title": "Høyesterett: Nannestad kommune får ikke påberope seg EMK",
+  "description": "<p>Er en kommune beskyttet av Menneskerettighetskonvensjonen i et tomtefeste-forhold?</p><p>Nei, konkluderte Høyesteretts storkammer i en pikant sak 9. mai . Juridiske eksperter mener dommen minsker sjansen for at norsk tomtefeste-rett blir satt til side av internasjonale menneskerettigheter.</p>",
+  "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/hr_om_nannestad.jpg",
+  "contributors": [
     {
       "id": "henrik-pryser-libell",
       "mail": "henrik.pryser.libell@universitetforlaget.no",
@@ -17,5 +21,5 @@
       "featured": true
     }
   ],
-  "html": ""
+  "html": null
 }
