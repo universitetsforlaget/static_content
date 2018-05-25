@@ -254,5 +254,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 23,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-05-25T10:00:00.000Z",
+    "title": "Varsel om oppdatering av servere og nedetid på Juridika",
+    "description": "Lørdag formiddag vil vi oppdatere serverne tilknyttet Juridika. Oppdateringene kan medføre at tjenesten ikke er tilgjengelig i dette tidsrommet. Vi beklager eventuelle ulemper som kan inntreffe.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
