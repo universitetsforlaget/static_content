@@ -265,5 +265,27 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 24,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2018-05-29T10:00:00.000Z",
+    "title": "Endringer i <a href='/lov/1939-02-17-2'>lov om deponering i gjeldshøve</a>, deponeringslova er kommentert av forfatter 24.5.2018",
+    "description": "Verket er gjennomgått og ajourført av forfatter med all relevant høyesterettspraksis og annen relevant underrettspraksis frem til februar 2018. Lovendringer henvisning til andre lover, forarbeider og mindre språklige endringer er innarbeidet og kommentert. Henvisninger til juridisk litteratur er også oppdatert.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 25,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2018-05-29T10:05:00.000Z",
+    "title": "Endringer i lov om gjeldsbrev er kommentert av forfatter 14.5.2018",
+    "description": "<a href='/lov/1939-02-17-1'>Verket</a> er gjennomgått og ajourført av forfatter med all relevant høyesterettspraksis og annen relevant underrettspraksis frem til februar 2018. Lovendringer, henvisning til andre lover, forarbeider og mindre språklige endringer er innarbeidet og kommentert. Henvisninger til juridisk litteratur er også oppdatert.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
