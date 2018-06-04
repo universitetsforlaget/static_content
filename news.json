@@ -309,5 +309,35 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": "kommentar-til-høyesteretts-nye-storkammer-dom-om-tomtefeste",
+    "has_full_page_article": true,
+    "type": "expert_comment",
+    "published_at": "2018-06-04T09:00:00.000Z",
+    "title": "Kommentar til Høyesteretts nye storkammer-dom om tomtefeste",
+    "description": "Advokat Christian Reusch, partner i Simonsen Vogt Wiig AS, kommenterer Høyesteretts dom av 9. mai om Oppregulering av festeavgift – vilkåret om tvillaus avtale for å oppregulere festeavgiften etter endringer i tomteverdi (HR-2018-865-S)",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-contributor-portraits/christian-hp-reusch-1200px",
+    "contributors": [
+      {
+        "id": "christian-hp-reusch",
+        "mail": null,
+        "names": ["Christian", "H.P.", "Reusch"],
+        "tags": [
+          {
+            "path": ["område", "rett", "sivil"],
+            "name": "Sivilprosess"
+          },
+          {
+            "path": ["serie", "kommentarutgaver"],
+            "name": "Kommentarutgaver"
+          }
+        ],
+        "description": null,
+        "hasPortrait": true,
+        "featured": true
+      }
+    ],
+    "html": null
   }
 ]

@@ -1,0 +1,7 @@
+input.text, input.search, textarea.textarea {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3x;
+  border: solid 1px #e6dbd6;
+  outline: none;
+}
