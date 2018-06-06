@@ -1,0 +1,25 @@
+{
+  "id": "laget-digital-markedsplass-for-forelesningsnotater",
+  "has_full_page_article": true,
+  "type": "news_article",
+  "published_at": "2018-07-15T09:00:00.000Z",
+  "title": "Laget digital markedsplass for forelesningsnotater",
+  "description": "Jusstudenter har oppdaget sitt eget «finn.no» for studentoppgaver og forelesningsnotater». Delingsplattformen FileFora ble laget av tre handelshøyskole-elever i Bergen. Nå bruker jusstudentene på markedet i snitt 400 kroner i året på andres notater. Mest solgt er en oppsummering i tingsretten og en A-besvarelse i formueretten.",
+  "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/laget-digital-markedsplass-for-forelesningsnotater.png",
+  "contributors": [
+    {
+      "id": "henrik-pryser-libell",
+      "mail": "henrik.pryser.libell@universitetforlaget.no",
+      "names": [
+        "Henrik",
+        "Pryser",
+        "Libell"
+      ],
+      "tags": [],
+      "description": null,
+      "hasPortrait": false,
+      "featured": true
+    }
+  ],
+  "html": null
+}
