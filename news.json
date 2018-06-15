@@ -364,5 +364,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 28,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-06-15T14:00:00.000Z",
+    "title": "Utvidet utdragsfunksjon for lovkommentarer",
+    "description": "<p>Funksjonen for å velge utdrag av flere paragrafer i en lovkommentar er nå tilgjengelig på Juridika.</p><p>Ved å klikke på <strong>last ned</strong> øverst i høyre hjørne når man er inne i en ajourført lovkommentar, vil det komme opp valgalternativer. Du kan huke av de paragrafene du ønsker, og velge om du vil ha med informasjon om blant annet sidetall og forfatterens utvalgte kilder.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
