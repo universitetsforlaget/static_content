@@ -408,5 +408,15 @@
       "seq": 679,
       "type": "lov"
     }
+  },
+  {
+    "shortTitle": "Straffegjennomføringsloven Kapittel 5",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2001-05-18",
+      "seq": 21,
+      "inForceAt": "2018-06-01"
+    }
   }
 ]
