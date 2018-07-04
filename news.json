@@ -457,5 +457,27 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 30,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-07-04T14:10:00.000Z",
+    "title": "Tvangsfullbyrdelsesloven er nå ajourført",
+    "description": "Femte utgave av <a href='/lov/1992-06-26-86'>tvangsfullbyrdelsesloven</a> er når tilgjengelig som ajourført lovkommentar på Juridika. Det har skjedd en rekke lovendringer siden sist ajourføring. Blant annet er reglene om midlertidig sikring flyttet til tvisteloven, og er derfor ikke kommentert i denne versjonen. Det har også kommet til en del ny rettspraksis.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 31,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-07-04T14:15:00.000Z",
+    "title": "Ny ajourført lovkommentar til plan- og bygningsloven",
+    "description": "Andre utgave av <a href='/lov/2008-06-27-71'>plan- og bygningsloven</a> er nå tilgjengelig som ajourført lovkommentar på Juridika. Plan- og bygningsloven ble endret på en rekke områder i 2017. Den ajourførte kommentaren gir en fyldig og praktisk oversikt over loven med tilhørende forskrifter og rettspraksis.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
