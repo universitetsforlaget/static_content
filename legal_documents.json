@@ -418,5 +418,15 @@
       "seq": 21,
       "inForceAt": "2018-06-01"
     }
+  },
+  {
+    "shortTitle": "Plan- og bygningsloven",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2008-06-27",
+      "seq": 71,
+      "inForceAt": "2018-04-20"
+    }
   }
 ]
