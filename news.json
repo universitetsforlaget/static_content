@@ -2,7 +2,7 @@
   {
     "id": 1,
     "has_full_page_article": false,
-    "type": "new",
+    "type": "literature",
     "published_at": "2017-12-05T08:00:00.000Z",
     "title": "Et sentralt referanseverk i ny utgave",
     "description": "I desember 2017 kommer endelig en ny utgave av lovkommentaren til Aksje- og allmennaksjeloven i bokhandelen. Den vil også publiseres i starten av 2018 på Juridika.  4. utgave er oppdatert med endringer i lov og rettspraksis, herunder endringslovene 14. juni 2013 nr. 40 og 16. juni 2017 nr. 71. Fremstillingen er ajourført pr. juni 2017.",
@@ -13,7 +13,7 @@
   {
     "id": 3,
     "has_full_page_article": false,
-    "type": "new",
+    "type": "literature",
     "published_at": "2017-12-05T08:01:00.000Z",
     "title": "Magnus Matningsdals kommentar til straffelovens spesielle del er publisert",
     "description": "I oktober 2017 ble andre del av Magnus Matningsdals <a href='/documents/NL/lov/2005-05-20-28'>kommentar til straffeloven 2005</a> utgitt i bok. Nå finner du den også her på Juridika. Ajourføring ventes tidlig i 2018. ",
@@ -24,7 +24,7 @@
   {
     "id": 4,
     "has_full_page_article": false,
-    "type": "update",
+    "type": "literature",
     "published_at": "2017-12-05T08:02:00.000Z",
     "title": "En rekke lovkommentarer er nylig ajourført",
     "description": "Vi vil at Juridika skal skinne, og forfatterne har de siste to månedene hjulpet oss med å levere ajourføringer til alle disse lovkommentarene: <a href='/documents/NL/lov/1989-06-02-27'>alkoholloven</a>, <a href='/documents/NL/lov/1972-03-03-5'>arveloven</a>, <a href='/documents/NL/lov/1915-08-13-5'>domstolloven</a>, <a href='/documents/NL/lov/1996-12-20-106'>tomtefesteloven</a>, <a href='/documents/NL/lov/1994-12-09-64'>løsningsrettsloven</a>, <a href='/documents/NL/lov/1974-06-28-58'>odelsloven</a>, <a href='/documents/NL/lov/1981-05-29-38'>viltloven</a>, <a href='/documents/NL/lov/2005-05-20-28'>straffeloven</a>, <a href='/documents/NL/lov/2014-06-20-43'>helseregisterloven</a>, <a href='/documents/NL/lov/2014-06-20-42'>pasientjournalloven</a>, <a href='/documents/NL/lov/1965-06-18-4'>vegtrafikkloven</a>, <a href='/documents/NL/lov/2014-06-20-49'>konfliktrådsloven</a>, <a href='/documents/NL/lov/2013-06-21-100'>jordskifteloven</a>, <a href='/documents/NL/lov/1988-05-13-26'>inkassoloven</a>, <a href='/documents/NL/lov/1981-05-22-25'>straffeprosessloven</a>, <a href='/documents/NL/lov/1939-02-17-1'>gjeldsbrevloven</a>, <a href='/documents/NL/lov/1939-02-17-2'>deponeringsloven</a>, <a href='/documents/NL/lov/2016-05-27-14'>skatteforvaltningsloven</a>, <a href='/documents/NL/forskrift/2015-07-02-1088'>våpeninstruks for politiet</a>.",
@@ -35,7 +35,7 @@
   {
     "id": 5,
     "has_full_page_article": false,
-    "type": "new",
+    "type": "literature",
     "published_at": "2017-12-05T08:03:00.000Z",
     "title": "Tredje utgave av kommentaren til arbeidsmiljøloven publiseres i 2018",
     "description": "Fougner, Holo, Sundet og Thorkildsen har revidert <a href='/documents/NL/lov/2005-06-17-62'>kommentaren til arbeidsmiljøloven</a>, og verket kommer nå i ny utgave. Fremstillingen omfatter de viktige endringene i reglene om varsling, arbeidstid mv. og er à jour per 1. juli 2017.",
@@ -404,7 +404,7 @@
   {
     "id": 29,
     "has_full_page_article": false,
-    "type": "juridika",
+    "type": "literature",
     "published_at": "2018-06-27T12:30:00.000Z",
     "title": "Ny litteratur på Juridika",
     "description": "<p>Vi jobber kontinuerlig med å utvide vårt bibliotek, og nå er flere bøker tilgjengelig på Juridika:</p><ul style='margin-top: 15px; list-style-type: disc;'><li><a href='/faglitteratur/bastet-og-bundet/'>Bastet og bundet</a></li><li><a href='/faglitteratur/bevisvurderingens-rettslige-rammer'>Bevisvurderingens rettslige rammer</a></li><li><a href='/faglitteratur/mistenktes-innsyn-i-straffesaken'>Mistenktes innsyn i straffesaken</a></li><li><a href='/faglitteratur/patentering-av-informasjonsteknologiske-oppfinnelser'>Patentering av informasjonsteknologiske oppfinnelser</a></li><li><a href='/faglitteratur/ugyldighet-ved-formuerettslige-disposisjoner'>Ugyldighet ved formuerettslige disposisjoner</a></li><li><a href='/faglitteratur/obligasjonsrett-en-innføring'>Obligasjonsrett – en innføring</a></li><li><a href='/faglitteratur/agreement-on-the-european-economic-area'>Agreement on the European Economic Area</a></li><li><a href='/faglitteratur/foreldelse-av-fordringer'>Foreldelse av fordringer</a></li><li><a href='/faglitteratur/frihandel-med-helseskadelige-rus-og-næringsmidler'>Frihandel med helseskadelige rus- og næringsmidler</a></li><li><a href='/faglitteratur/hvitvasking-fenomenet-regelverket-nye-strategier'>Hvitvasking: fenomenet, regelverket, nye strategier</a></li></ul>",
@@ -461,7 +461,7 @@
   {
     "id": 30,
     "has_full_page_article": false,
-    "type": "juridika",
+    "type": "literature",
     "published_at": "2018-07-04T14:10:00.000Z",
     "title": "Tvangsfullbyrdelsesloven er nå ajourført",
     "description": "Femte utgave av <a href='/lov/1992-06-26-86'>tvangsfullbyrdelsesloven</a> er når tilgjengelig som ajourført lovkommentar på Juridika. Det har skjedd en rekke lovendringer siden sist ajourføring. Blant annet er reglene om midlertidig sikring flyttet til tvisteloven, og er derfor ikke kommentert i denne versjonen. Det har også kommet til en del ny rettspraksis.",
@@ -472,7 +472,7 @@
   {
     "id": 31,
     "has_full_page_article": false,
-    "type": "juridika",
+    "type": "literature",
     "published_at": "2018-07-04T14:15:00.000Z",
     "title": "Ny ajourført lovkommentar til plan- og bygningsloven",
     "description": "Andre utgave av <a href='/lov/2008-06-27-71'>plan- og bygningsloven</a> er nå tilgjengelig som ajourført lovkommentar på Juridika. Plan- og bygningsloven ble endret på en rekke områder i 2017. Den ajourførte kommentaren gir en fyldig og praktisk oversikt over loven med tilhørende forskrifter og rettspraksis.",
@@ -508,7 +508,7 @@
   {
     "id": 32,
     "has_full_page_article": false,
-    "type": "juridika",
+    "type": "literature",
     "published_at": "2018-08-08T15:00:00.000Z",
     "title": "Ny litteratur på Juridika",
     "description": "<p>Vi utvider stadig vårt bibliotek, og følgende bøker er nå tilgjengelig på Juridika:</p><ul style='margin-top: 15px; list-style-type: disc;'><li><a href='/faglitteratur/forvaltningsrett/10'>Forvaltningsrett 10. utg. (2014)</a></li><li><a href='/faglitteratur/barnekonvensjonen/3'>Barnekonvensjonen 3. utg. (2016)</a></li><li><a href='/faglitteratur/juss-for-vektere/2'>Juss for vektere 2. utg. (2017)</a></li><li><a href='/faglitteratur/menneskerettighetene-og-norge/1'>Menneskerettighetene og Norge – rettsliggjøring og demokrati (2017)</a></li><li><a href='/faglitteratur/nedbemanning-og-sluttpakker/1'>Nedbemanning og sluttpakker –  en praktisk håndbok (2005)</a></li><li><a href='/faglitteratur/forbud-mot-tilbakevirkende-lover/1'>Forbud mot tilbakevirkende lover (2010)</a></li><li><a href='/faglitteratur/eigedomshistorie/1'>Eigedomshistorie – hovudliner i norsk eigedomshistorie frå 1600-talet fram mot nåtida (2017)</a></li></ul>",
