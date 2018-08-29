@@ -428,5 +428,15 @@
       "seq": 71,
       "inForceAt": "2018-04-20"
     }
+  },
+  {
+    "shortTitle": "Lov om undersjøiske naturforekomster",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "1963-06-21",
+      "seq": 12,
+      "inForceAt": "2015-10-01"
+    }
   }
 ]
