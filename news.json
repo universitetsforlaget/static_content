@@ -573,5 +573,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 36,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-09-20T13:45:00.000Z",
+    "title": "Ny søkefunksjon – søk innad i de ajourførte lovkommentarene",
+    "description": "Søk innad i lovkommentarene er nå klart. Du finner søkemotoren øverst til venstre i den blå fanen når du er inne i de enkelte kommentarene. Her kan du avgrense søket til å bare gjelde lov eller bare kommentar. Vil du utvide søket er det muligheter for dette ved å klikke på utvid søket på samme sted, og du tas videre til det globale søket på Juridika.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
