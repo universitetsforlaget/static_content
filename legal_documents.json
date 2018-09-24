@@ -100,6 +100,16 @@
     }
   },
   {
+    "shortTitle": "Lov om undersjøiske naturforekomster",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "1963-06-21",
+      "seq": 12,
+      "inForceAt": "2015-10-01"
+    }
+  },
+  {
     "shortTitle": "Vegtrafikkloven - (vtrl)",
     "exprId": {
       "date": "1965-06-18",
@@ -270,6 +280,16 @@
     }
   },
   {
+    "shortTitle": "Straffegjennomføringsloven Kapittel 5",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2001-05-18",
+      "seq": 21,
+      "inForceAt": "2018-06-01"
+    }
+  },
+  {
     "shortTitle": "Voldgiftsloven - (vogl)",
     "exprId": {
       "date": "2004-05-14",
@@ -320,12 +340,32 @@
     }
   },
   {
+    "shortTitle": "Plan- og bygningsloven",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2008-06-27",
+      "seq": 71,
+      "inForceAt": "2018-04-20"
+    }
+  },
+  {
     "shortTitle": "Dyrevelferdsloven",
     "exprId": {
       "date": "2009-06-19",
       "inForceAt": "2015-10-01",
       "base": "NL",
       "seq": 97,
+      "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Mineralloven",
+    "exprId": {
+      "date": "2009-06-19",
+      "inForceAt": "2018-01-01",
+      "base": "NL",
+      "seq": 101,
       "type": "lov"
     }
   },
@@ -380,26 +420,6 @@
     }
   },
   {
-    "shortTitle": "Skatteforvaltningsloven - (sktfvl)",
-    "exprId": {
-      "date": "2016-05-27",
-      "inForceAt": "2017-10-01",
-      "base": "NL",
-      "seq": 14,
-      "type": "lov"
-    }
-  },
-  {
-    "shortTitle": "Mineralloven",
-    "exprId": {
-      "date": "2009-06-19",
-      "inForceAt": "2018-01-01",
-      "base": "NL",
-      "seq": 101,
-      "type": "lov"
-    }
-  },
-  {
     "shortTitle": "Personvernforordningen (GDPR)",
     "exprId": {
       "date": "2016-04-27",
@@ -410,33 +430,13 @@
     }
   },
   {
-    "shortTitle": "Straffegjennomføringsloven Kapittel 5",
+    "shortTitle": "Skatteforvaltningsloven - (sktfvl)",
     "exprId": {
+      "date": "2016-05-27",
+      "inForceAt": "2017-10-01",
       "base": "NL",
-      "type": "lov",
-      "date": "2001-05-18",
-      "seq": 21,
-      "inForceAt": "2018-06-01"
-    }
-  },
-  {
-    "shortTitle": "Plan- og bygningsloven",
-    "exprId": {
-      "base": "NL",
-      "type": "lov",
-      "date": "2008-06-27",
-      "seq": 71,
-      "inForceAt": "2018-04-20"
-    }
-  },
-  {
-    "shortTitle": "Lov om undersjøiske naturforekomster",
-    "exprId": {
-      "base": "NL",
-      "type": "lov",
-      "date": "1963-06-21",
-      "seq": 12,
-      "inForceAt": "2015-10-01"
+      "seq": 14,
+      "type": "lov"
     }
   }
 ]
