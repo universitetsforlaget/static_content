@@ -50,7 +50,7 @@
     }
   },
   {
-    "shortTitle": "Domstolloven - (dl)",
+    "shortTitle": "Domstolloven - (dl.)",
     "exprId": {
       "date": "1915-08-13",
       "inForceAt": "2018-01-01",
@@ -260,7 +260,7 @@
     }
   },
   {
-    "shortTitle": " Allmennaksjeloven - (asal.)",
+    "shortTitle": "Allmennaksjeloven - (asal.)",
     "exprId": {
       "date": "1997-06-13",
       "inForceAt": "2018-05-02",
@@ -340,7 +340,7 @@
     }
   },
   {
-    "shortTitle": "Plan- og bygningsloven",
+    "shortTitle": "Plan- og bygningsloven - (pbl)",
     "exprId": {
       "base": "NL",
       "type": "lov",
