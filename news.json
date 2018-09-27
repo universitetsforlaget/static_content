@@ -606,5 +606,16 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 39,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2018-09-27T13:45:00.000Z",
+    "title": "Endelig kan du abonnere på de aller nyeste fagbøkene på Juridika.",
+    "description": "Fra nå av publiserer vi alle våre juridiske fagbøker digitalt samtidig som de blir tilgjengelige som papirbok. Siden prisen på nye bøker i en periode er bundet av Bokavtalens fastprisbestemmelse, selger vi disse i en egen abonnementspakke. Bestill pakken på <a href='mailto:post@juridika.no'>post@juridika.no</a>.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
