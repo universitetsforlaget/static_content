@@ -438,5 +438,15 @@
       "seq": 14,
       "type": "lov"
     }
+  },
+  {
+    "shortTitle": "Offentleglova – (offl)",
+    "exprId": {
+      "date": "2006-05-19",
+      "inForceAt": "2018-07-20",
+      "base": "NL",
+      "seq": 16,
+      "type": "lov"
+    }
   }
 ]
