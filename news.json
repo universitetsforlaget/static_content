@@ -642,5 +642,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 40,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2018-09-28T14:20:00.000Z",
+    "title": "Offentleglova – et nytt tilskudd til lovkommentarserien",
+    "description": "<a href='/lov/2006-05-19-16'>Offentleglova</a> er nå tilgjengelig som ajourført lovkommentar på Juridika. I denne lovkommentaren går forfatterne grundig igjennom offentleglovas bestemmelser, blant annet i lys av en rekke uttalelser fra Justisdepartementets lovavdeling og Sivilombudsmannen. Det er lagt særlig vekt på å omtale praksis og eksempler, slik at lovkommentaren skal komme til nytte i det praktiske liv. Verket er bekreftet à jour per 20. mai 2018.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
