@@ -653,5 +653,16 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 41,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-10-10T10:40:00.000Z",
+    "title": "Nye søkefunksjoner",
+    "description": "Vi har lagt inn søkefelt på hver landingsside på Juridika. På siden til kommentarene kan du søke spesifikt etter lovkommentarene. For å finne boken du er på jakt etter kan du inne på fagboksiden søke på tittel og forfatter. Tidsskriftsiden har et søkefelt hvor du søker etter innhold i tidsskriftsartiklene. Søket i tidsskriftsartiklene tar deg tilbake til det globale søket hvor du kan velge å utvide trefflisten din.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
