@@ -689,5 +689,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 42,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-10-15T11:40:00.000Z",
+    "title": "Meld deg på digital kunnskapsfrokost her!",
+    "description": "Mye nytt skjer på Juridika om dagen.  Onsdag 31. oktober kl. 08.30-09.30 arrangerer vi kunnskapsfrokost om Juridika. Her vil en av våre dyktige medarbeidere holde Juridika-brukerkurs. For mer informasjon og påmelding, se <a href='https://bit.ly/2voR3qq'>her</a>.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/illustrasjon_vandrende_bok.png",
+    "contributors": [],
+    "html": null
   }
 ]
