@@ -697,7 +697,18 @@
     "published_at": "2018-10-15T11:40:00.000Z",
     "title": "Meld deg på digital kunnskapsfrokost her!",
     "description": "Mye nytt skjer på Juridika om dagen.  Onsdag 31. oktober kl. 08.30-09.30 arrangerer vi kunnskapsfrokost om Juridika. Her vil en av våre dyktige medarbeidere holde Juridika-brukerkurs. For mer informasjon og påmelding, se <a href='https://bit.ly/2voR3qq'>her</a>.",
-    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/illustrasjon_vandrende_bok.png",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 43,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2018-10-17T17:30:00.000Z",
+    "title": "Endringer i lov om straff (straffeloven) er kommentert av forfatter 17.10.2018",
+    "description": "<a href='/lov/2005-05-20-28'>Verket</a> er gjennomgått og ajourført av forfatter med all relevant høyesterettspraksis fra 1. januar 2018 frem til 1. juli 2018. Lovendringer i denne perioden er også innarbeidet og kommentert.",
+    "imageUrl": null,
     "contributors": [],
     "html": null
   }
