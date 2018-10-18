@@ -706,9 +706,20 @@
     "has_full_page_article": false,
     "type": "literature",
     "published_at": "2018-10-17T17:30:00.000Z",
-    "title": "Endringer i lov om straff (straffeloven) er kommentert av forfatter 17.10.2018",
+    "title": "Endringer i lov om straff (straffeloven) er kommentert av forfatter",
     "description": "<a href='/lov/2005-05-20-28'>Verket</a> er gjennomgått og ajourført av forfatter med all relevant høyesterettspraksis fra 1. januar 2018 frem til 1. juli 2018. Lovendringer i denne perioden er også innarbeidet og kommentert.",
     "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 44,
+    "has_full_page_article": false,
+    "type": "featured",
+    "published_at": "2018-10-18T11:00:00.000Z",
+    "title": "Nå kan du også abonnere på våre aller nyeste bøker!",
+    "description": "<p>Fastprisbestemmelsen i bokavtalen har tidligere betydd at du har måttet vente til april året etter en bok har kommet i papirutgave for å få digital tilgang.</p><p>Med et tilleggsabonnement kan du og dine kolleger nå få tilgang til alle våre nye jussfagbøker – søkbart og umiddelbart tilgjengelig – allerede samme dag som de kommer ut på papir.</p>",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/illustrasjon_vandrende_bok.png",
     "contributors": [],
     "html": null
   }
