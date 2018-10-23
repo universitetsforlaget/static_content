@@ -722,5 +722,16 @@
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/illustrasjon_vandrende_bok.png",
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 45,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-10-23T11:30:00.000Z",
+    "title": "Ny funksjon – kopiering av tekst med automatisk referanse",
+    "description": "Vi har lansert en ny funksjon for kopiering av tekst. Når du kopierer ønsket tekst og limer det inn i et word-dokument vil du automatisk få med referansen til kilden. I første omgang vil ikke denne funksjonaliteten være tilgjengelig i nettleserne Internett Explorer og Edge versjoner eldre enn april 2018.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
