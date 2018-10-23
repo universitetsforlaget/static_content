@@ -718,8 +718,19 @@
     "type": "featured",
     "published_at": "2018-10-18T11:00:00.000Z",
     "title": "Nå kan du også abonnere på våre aller nyeste bøker!",
-    "description": "<p>Fastprisbestemmelsen i bokavtalen har tidligere betydd at du har måttet vente til april året etter en bok har kommet i papirutgave for å få digital tilgang.</p><p>Med et tilleggsabonnement kan du og dine kolleger nå få tilgang til alle våre nye jussfagbøker – søkbart og umiddelbart tilgjengelig – allerede samme dag som de kommer ut på papir.</p>",
+    "description": "<p>Fastprisbestemmelsen i bokavtalen har tidligere betydd at du har måttet vente til april året etter en bok har kommet i papirutgave for å få digital tilgang.</p><p>Med et tilleggsabonnement kan du og dine kolleger nå få tilgang til alle våre nye jussfagbøker – søkbart og umiddelbart tilgjengelig – allerede samme dag som de kommer ut på papir.</p><p>Bestill pakken på <a href='mailto:post@juridika.no'>post@juridika.no</a>.</p>",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/illustrasjon_vandrende_bok.png",
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 45,
+    "has_full_page_article": false,
+    "type": "juridika",
+    "published_at": "2018-10-23T11:30:00.000Z",
+    "title": "Ny funksjon – kopiering av tekst med automatisk referanse",
+    "description": "Vi har lansert en ny funksjon for kopiering av tekst. Når du kopierer ønsket tekst og limer det inn i et word-dokument vil du automatisk få med referansen til kilden. I første omgang vil ikke denne funksjonaliteten være tilgjengelig i nettleserne Internett Explorer og Edge versjoner eldre enn april 2018.",
+    "imageUrl": null,
     "contributors": [],
     "html": null
   }
