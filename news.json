@@ -733,5 +733,30 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": "haavind-lanserer-egen-konkursrobot",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2018-10-23T12:00:00.000Z",
+    "title": "Haavind lanserer egen «konkursrobot»",
+    "description": "Advokatfirmaet Haavind er blant de mange som kaster seg på digitaltoget i advokatbransjen. En ny «advokatrobot» for automatisk konkursbehandling trengte bare noen måneder på å gå fra idé til virkelighet.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/haavind-lanserer-egen-konkursrobot.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
   }
 ]
