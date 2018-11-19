@@ -769,5 +769,17 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 47,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2018-11-19T16:00:00.000Z",
+    "title": "«Å være advokat» ­— nytt tilskudd på Juridika",
+    "description": "Vi utvider stadig vårt bibliotek, og nå kan du lese <a href='/fagbøker/å-være-advokat/1'>«Å være advokat»</a> av Sigurd Knudtzon på Juridika.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/%C3%A5-v%C3%A6re-advokat-1-200px",
+    "resourceUrl": "/fagbøker/å-være-advokat/1",
+    "contributors": [],
+    "html": null
   }
 ]
