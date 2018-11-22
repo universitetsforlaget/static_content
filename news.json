@@ -322,14 +322,25 @@
       {
         "id": "christian-hp-reusch",
         "mail": null,
-        "names": ["Christian", "H.P.", "Reusch"],
+        "names": [
+          "Christian",
+          "H.P.",
+          "Reusch"
+        ],
         "tags": [
           {
-            "path": ["område", "rett", "sivil"],
+            "path": [
+              "område",
+              "rett",
+              "sivil"
+            ],
             "name": "Sivilprosess"
           },
           {
-            "path": ["serie", "kommentarutgaver"],
+            "path": [
+              "serie",
+              "kommentarutgaver"
+            ],
             "name": "Kommentarutgaver"
           }
         ],
@@ -449,7 +460,10 @@
       {
         "id": "martin-jetlund",
         "mail": null,
-        "names": ["Martin", "Jetlund"],
+        "names": [
+          "Martin",
+          "Jetlund"
+        ],
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -779,6 +793,17 @@
     "description": "Vi utvider stadig vårt bibliotek, og nå kan du lese <a href='/fagbøker/å-være-advokat/1'>«Å være advokat»</a> av Sigurd Knudtzon på Juridika.",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/%C3%A5-v%C3%A6re-advokat-1-200px",
     "resourceUrl": "/fagbøker/å-være-advokat/1",
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 48,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2018-11-22T11:00:00.000Z",
+    "title": "Endringer i lov om aksjeselskaper (aksjeloven) og lov om allmennaksjeselskaper (allmennaksjeloven) er kommentert av forfatterne",
+    "description": "<a href='/lov/1997-06-13-44'>Aksjeloven</a> og <a href='/lov/1997-06-13-45'>Allmennaksjeloven</a> er gjennomgått og ajourført av forfatterne per 15. oktober 2018. All relevant ny rettspraksis, språklige endringer samt lovendringer er kommentert. Henvisninger til juridisk litteratur er også oppdatert.",
+    "imageUrl": null,
     "contributors": [],
     "html": null
   }
