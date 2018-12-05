@@ -1,0 +1,25 @@
+{
+  "id": "jussens-digitale-skattkammer",
+  "has_full_page_article": true,
+  "type": "news_article",
+  "published_at": "2018-12-05T15:00:00.000Z",
+  "title": "Jussens digitale skattkammer",
+  "description": "Stordatarevolusjonen er kommet til juss. Uten juridiske data, ingen juridisk kunstig intelligens. Når maskiner lære å lese lover og dommer, starter kampen om jussens data.",
+  "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-digitale-skattkammer.jpg",
+  "contributors": [
+    {
+      "id": "henrik-pryser-libell",
+      "mail": "henrik.pryser.libell@universitetforlaget.no",
+      "names": [
+        "Henrik",
+        "Pryser",
+        "Libell"
+      ],
+      "tags": [],
+      "description": null,
+      "hasPortrait": false,
+      "featured": true
+    }
+  ],
+  "html": null
+}
