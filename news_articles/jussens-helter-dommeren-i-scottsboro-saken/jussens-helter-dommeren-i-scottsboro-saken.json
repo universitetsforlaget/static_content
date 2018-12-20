@@ -5,7 +5,7 @@
     "type": "serial",
     "published_at": "2018-12-19T13:00:00.000Z",
     "title": "Jussens helter",
-    "description": "En føljetong i tolv deler om jurister som valgte å følge sin samvittighet fremfor å leve opp til systemets krav.",
+    "description": "En serie i tolv deler om jurister som valgte å følge sin samvittighet fremfor å leve opp til systemets krav.",
     "imageUrl": null,
     "contributors": [
       {
@@ -28,7 +28,7 @@
     "has_full_page_article": true,
     "type": "serial_chapter",
     "published_at": "2018-12-19T13:01:00.000Z",
-    "title": "Dommeren i Scottsboro-saken",
+    "title": "Jussens helter 1: Dommeren i Scottsboro-saken",
     "description": "Av og til kan en dommer stå under et voldsomt press for å bryte med det han vet er lov og rett. James Edwin Horton dømte i en profilert gjengvoldtektsak i Decatur, Alabama i 1933.",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-dommeren-i-scottsboro-saken3.jpg",
     "contributors": [
