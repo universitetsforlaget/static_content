@@ -997,5 +997,29 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": "jussforskning-juridisk-kjønnsskifte",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-01-03T11:00:00.000Z",
+    "title": "Jussforskning: Juridisk kjønnsskifte",
+    "description": "Loven om endring av juridisk kjønn har skapt uventede følgeproblemer som lovens forarbeid ikke avklarer. Slik konkluderer jussprofessor Marit Halvorsen etter å ha gjennomgått tvister og uklarheter oppstått etter at loven trådte i kraft i 2016.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussforskning-juridisk-kj%C3%B8nnsskifte.jpg",
+    "contributors": [
+      {
+        "id": "sunniva-rebbestad",
+        "mail": null,
+        "names": [
+          "Sunniva",
+          "Rebbestad"
+        ],
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
   }
 ]
