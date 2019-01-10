@@ -53,4 +53,4 @@ Finn den nyeste notisen som har `id` satt til en tallverdi. Copy/paste og oppdat
 Kopier innholdet fra json filen med metadata som ble opprettet når du opprettet artikkelen. Lim innholdet inn i `news.json`.
 
 ### Publiser
-Etter å ha testet at alt ser riktig ut på https://stage.juridika.no kan du merge `development` branchen inn i `master`. Det er ikke nødvendig å opprette pull request. Etter merge vil endringene være tilgjengelige på [Juridika](https://juridika.no).
+Etter å ha testet at alt ser riktig ut på https://stage.juridika.no kan du opprette en pull request og merge `development` branchen inn i `master`. Det er ikke nødvendig å vente på en code review før merge. Etter merge vil endringene være tilgjengelige på [Juridika](https://juridika.no).
