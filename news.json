@@ -1064,5 +1064,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 50,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-01-11T11:10:00.000Z",
+    "title": "Endringer i lov om vegtrafikk (vegtrafikkloven) § 3 er kommentert av forfatterne.",
+    "description": "<a href='lov/1965-06-18-4/%C2%A73/kommentar'>§ 3 «Grunnregler for trafikk»</a> er nå ajourført per 1. desember 2018. Ajourføringen innebærer ny rettspraksis, språklige endringer samt oppdatert henvisning til juridisk litteratur. En gjennomarbeidet revisjon av hele lovkommentaren kommer i 2019.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
