@@ -1021,7 +1021,8 @@
       }
     ],
     "html": null
-  },{
+  },
+  {
     "id": "kommentar-til-høyesterettsdom-om-ugjenkallelighet",
     "has_full_page_article": true,
     "type": "expert_comment",
@@ -1075,5 +1076,17 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
-  }
+  },
+  {
+    "id": 51,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2018-11-19T16:00:00.000Z",
+    "title": "«Rettslig regulering av norsk akvakultur» – ny bok på Juridika",
+    "description": "Akvakulturnæringen er underlagt en omfattende offentlig regulering. I denne <a href='/fagbøker/rettslig-regulering-av-norsk-akvakultur/1'>boken</a> ser forfatteren nærmere på det sentrale regelverket som regulerer akvakulturnæringen, blant annet oppdrettstillatelser og krav til akvakulturanlegg.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/rettslig-regulering-av-norsk-akvakultur-1-200px",
+    "resourceUrl": "/rettslig-regulering-av-norsk-akvakultur/1",
+    "contributors": [],
+    "html": null
+  },
 ]
