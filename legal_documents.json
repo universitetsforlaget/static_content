@@ -20,6 +20,16 @@
     }
   },
   {
+    "shortTitle": "Barnelova (ajourføres ikke) - (bl.)",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "1981-04-08",
+      "seq": 7,
+      "inForceAt": "2019-01-01"
+    }
+  },
+  {
     "shortTitle": "Eierseksjonsloven 1997 (Opphevet) - (eiersl)",
     "exprId": {
       "date": "1997-05-23",
