@@ -54,3 +54,15 @@ Kopier innholdet fra json filen med metadata som ble opprettet når du opprettet
 
 ### Publiser
 Etter å ha testet at alt ser riktig ut på https://stage.juridika.no kan du opprette en pull request og merge `development` branchen inn i `master`. Det er ikke nødvendig å vente på en code review før merge. Etter merge vil endringene være tilgjengelige på [Juridika](https://juridika.no).
+
+## Lov referanser
+`link-injector-service` bruker `legal_references.tsv` for å lage riktig URL til lover i tekstene.
+Første kolonne i TSV fila er en liste med titler/kort-titler mens andre kolonne er en liste av unike id'er som refererer til en lov.
+
+Eksempel,
+
+```
+arbeidstidsloven	lov/1949-06-10-2|lov/1939-03-10-5
+```
+
+Vil bruke `lov/1949-06-10-2` for "arbeidstidsloven 1949"
