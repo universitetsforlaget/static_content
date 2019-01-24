@@ -1,0 +1,25 @@
+{
+  "id": "lynkurs-nytt-i-lov-etter-ny-personopplysningslov-og-gdpr",
+  "has_full_page_article": true,
+  "type": "news_article",
+  "published_at": "2019-01-24T00:00:00.000Z",
+  "title": "Lynkurs: Dette var nytt i personvernretten i 2018",
+  "description": "Denne uken kom den første giga-boten etter EUs personvernforordning (GDPR) –  en fransk bot til Google på 50 millioner euro. Her er en oversikt over endringene i rettskildebildet etter ny personopplysningslov ble innført i 2018, og hva som er verdt å følge med på videre.",
+  "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/lynkurs-dette-var-nytt-i-personvernretten-i-2018.jpg",
+  "contributors": [
+    {
+      "id": "henrik-pryser-libell",
+      "mail": "henrik.pryser.libell@universitetforlaget.no",
+      "names": [
+        "Henrik",
+        "Pryser",
+        "Libell"
+      ],
+      "tags": [],
+      "description": null,
+      "hasPortrait": false,
+      "featured": true
+    }
+  ],
+  "html": null
+}
