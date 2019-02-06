@@ -1125,5 +1125,29 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": "",
+    "serial_id": "jussens-helter",
+    "has_full_page_article": true,
+    "type": "serial_chapter",
+    "published_at": "2019-02-19T00:00:00.000Z",
+    "title": "",
+    "description": "",
+    "imageUrl": "",
+    "contributors": [
+      {
+        "slug": "hans-petter-graver",
+        "names": ["Hans", "Petter", "Graver"],
+        "tags": [],
+        "description": {},
+        "featured": true,
+        "id": "hans-petter-graver",
+        "hasPortrait": true,
+        "articles": {},
+        "editions": []
+      }
+    ],
+    "html": null
   }
 ]
