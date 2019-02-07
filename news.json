@@ -1125,5 +1125,52 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": "jussens-helter",
+    "has_full_page_article": false,
+    "type": "serial",
+    "published_at": "2018-12-19T13:00:00.000Z",
+    "title": "Jussens helter",
+    "description": "En serie i tolv deler om jurister som valgte å følge sin samvittighet fremfor å leve opp til systemets krav.",
+    "imageUrl": null,
+    "contributors": [
+      {
+        "slug": "hans-petter-graver",
+        "names": ["Hans", "Petter", "Graver"],
+        "tags": [],
+        "description": {},
+        "featured": true,
+        "id": "hans-petter-graver",
+        "hasPortrait": true,
+        "articles": {},
+        "editions": []
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": "jussens-helter-hitlers-ulydige-byråkrat",
+    "serial_id": "jussens-helter",
+    "has_full_page_article": true,
+    "type": "serial_chapter",
+    "published_at": "2019-02-00T00:00:00.000Z",
+    "title": "Jussens helter 2: Hitlers ulydige byråkrat",
+    "description": "Den tyske advokaten og byråkraten Hans Calmeyer får snart sitt eget museum i Tyskland. «Jussens svar på Schindler» reddet tusenvis av mennesker fra masseutryddelse ved å godta falske bevis og finne små hull i loven som begrenset jødedeportasjonene i Nederland.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-hitlers-ulydige-byra%CC%8Akrat0.jpg",
+    "contributors": [
+      {
+        "slug": "hans-petter-graver",
+        "names": ["Hans", "Petter", "Graver"],
+        "tags": [],
+        "description": {},
+        "featured": true,
+        "id": "hans-petter-graver",
+        "hasPortrait": true,
+        "articles": {},
+        "editions": []
+      }
+    ],
+    "html": null
   }
 ]
