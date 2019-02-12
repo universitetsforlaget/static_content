@@ -1183,5 +1183,16 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 54,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-02-12T16:00:00.000Z",
+    "title": "Biblioteket utvides",
+    "description": "Etter ønsker fra flere er nå <a href='/fagbøker/vassdrags-og-energirett/1'>«Vassdrags- og energirett»</a> (2002) tilgjengelig på Juridika. Vi jobber kontinuerlig med å utvide vårt bibliotek. Savner du en bok på Juridika som er utgitt av Universitetsforlaget, send oss en henvendelse til <a href='mailto:post@juridika.no'>post@juridika.no</a>. Vi forsøker å prioritere deres ønsker, men spesielt for eldre bøker kan det være utfordrende å få tak i digital utgave, samt samtykke til å publisere boken.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
