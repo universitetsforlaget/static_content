@@ -28,7 +28,7 @@
         ],
       "tags":[],
       "description": null,
-      "hasPortrait": null,
+      "hasPortrait": false,
       "featured": true
     }
   ],
