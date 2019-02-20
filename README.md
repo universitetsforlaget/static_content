@@ -10,7 +10,7 @@ Vi har enn så lenge følgende nyhetstyper:
 - **juridika**: Benyttes for å opplyse om ny funksjonalitet, planlagt nedetid osv.
 - **news_article**: Innsikt artikkel
 - **expert_comment**: Ekspert kommentar
-- **serial**: Overordnet informasjon om en føljetong feed. Typisk informasjon som skal brukes i en header lik den for Jussens venner serien på innsikt.
+- **serial**: Overordnet informasjon om en føljetong feed. Typisk informasjon som skal brukes i en header lik den for Jussens helter serien på innsikt.
 - **serial_chapter**: Et kapittel i en føljetong.
 
 ### Begreper
