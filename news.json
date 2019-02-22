@@ -1200,5 +1200,52 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": "dummy-snøkrabbe",
+    "has_full_page_article": true,
+    "type": "expert_comment",
+    "published_at": "2019-02-00T00:00:00.000Z",
+    "title": "Dummy snøkrabbe",
+    "description": "Høyesterett har med dom HR-2019-282-S, Snøkrabbe-dommen langt på vei strafferettslig avklart at Norge kan regulere fangst i havet rundt Svalbard, men tolkningen av Svalbardtraktaten kan fortsatt prøves i sivile søksmål. Bak konflikt om krabber og fiske på Svalbard, ligger retten til olje- og mineralutvinning.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/dummy-sn%C3%B8krabbe.jpg",
+    "contributors": [
+      {
+        "id": "ruud",
+        "mail": null,
+        "names": [
+          "Morten",
+          "Ruud"
+          ],
+        "tags":[],
+        "description": null,
+        "hasPortrait": true,
+        "featured": true
+      },
+      {
+        "id": "ulfstein",
+        "mail": null,
+        "names": [
+          "Geir",
+          "Ulfstein"
+          ],
+        "tags":[],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 55,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-02-22T16:13:40.000Z",
+    "title": "Ny lovkommentar på Juridika - Ekspropriasjonserstatningsloven",
+    "description": "Fjerde utgave av lovkommentaren til <a href='/lov/1984-04-06-17'>Ekspropriasjonserstatningsloven</a> er nå tilgjengelig på Juridika. Lovkommentaren inneholder de viktigste reglene om vederlag ved ekspropriasjon av fast eiendom. Her får du en grundig og oppdatert omtale av hver enkelt paragraf i loven. Viktige ekspropriasjonsrettslige regler er begrunnet og drøftet slik at også studenter skal ha glede av boken. Lovkommentaren er à jour pr. september 2018.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
