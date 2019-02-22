@@ -1236,5 +1236,17 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 55,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-02-22T16:13:40.000Z",
+    "title": "Ny lovkommentar på Juridika - Ekspropriasjonserstatningsloven",
+    "description": "Fjerde utgave av lovkommentaren til <a href='/lov/1984-04-06-17'>Ekspropriasjonserstatningsloven</a> er nå tilgjengelig på Juridika. Lovkommentaren inneholder de viktigste reglene om vederlag ved ekspropriasjon av fast eiendom. Her får du en grundig og oppdatert omtale av hver enkelt paragraf i loven. Viktige ekspropriasjonsrettslige regler er begrunnet og drøftet slik at også studenter skal ha glede av boken. Lovkommentaren er à jour pr. september 2018.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/vassdrags-og-energirett-1-200px",
+    "resourceUrl": "fagbøker/vassdrags-og-energirett/1",
+    "contributors": [],
+    "html": null
   }
 ]
