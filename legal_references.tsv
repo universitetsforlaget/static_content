@@ -51,7 +51,6 @@ easa-forskriften	forskrift/2005-05-23-459
 eiendomsskatteloven|eigedomsskattelova|eigedomskattelova	lov/1975-06-06-29
 eksportkredittloven	lov/2012-06-22-57
 ekspropriasjonsloven	lov/1959-10-23-3|lov/1918-07-29-4|lov/1894-07-23-7
-ekspropriasjonserstatningsloven lov/1984-04-06-17
 ektefellelovens ikrafttredelseslov|ektefællelovens ikrafttrædelseslov|ektefællelov ikrafttrædelseslov|ektefellelov ikrafttredelseslov|ektefællelovens ikrl|ektefællelov ikrl	lov/1927-05-20-2
 embedsedloven	lov/1981-05-22-23
 energiloven	lov/1990-06-29-50
@@ -665,7 +664,7 @@ lov om kontantstøtte|kontantstøtteloven	lov/1998-06-26-41
 lov om kontroll av post- og teletjenester	lov/1915-06-24-5
 lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v|eksportkontrolloven|våpeneksportloven	lov/1987-12-18-93
 lov om kontroll med etterretnings-, overvåkings-|lov om kontroll med hemmelige tjenester|eos-kontrolloven|eos-kontrolloven	lov/1995-02-03-7
-lov om kontroll med markedsføring|markedsføringsloven|markedsføringloven|mfl	lov/2009-01-09-2
+lov om kontroll med markedsføring|markedsføringsloven|markedsføringloven	lov/2009-01-09-2
 lov om konvensjon norge/sverige om reinbeite	lov/1985-03-29-16
 lov om konvensjon om kjemiske våpen	lov/1994-05-06-10
 lov om konvensjon om reingjerder	lov/1983-03-11-9
@@ -799,7 +798,8 @@ lov om personell i forsvaret|forsvarspersonelloven	lov/2004-07-02-59
 lov om personnavn|navneloven	lov/2002-06-07-19
 lov om personopplysninger|personopplysningsloven|pol	lov/2000-04-14-31
 lov om petroleumsvirksomhet|petroleumsvirksomhetsloven|petroleumsloven|petrl	lov/1996-11-29-72
-lov om planlegging og byggesaksbehandling|plan- og bygningsloven|bygningsloven|bygningsloven|plbl|pbl	lov/2008-06-27-71
+lov om planlegging og byggesaksbehandling	lov/2008-06-27-71
+plan- og bygningsloven|bygningslov|bygningsloven|pbl	lov/1985-06-14-77|lov/1965-06-18-7|lov/1924-02-22-2
 lov om planteforedlerrett|planteforedlerrettsloven|planteforedlerrettloven|planteforedlerloven	lov/1993-03-12-32
 lov om pliktmessig avhold|avholdspliktloven	lov/1936-07-16-2
 lov om politiet|politiloven	lov/1995-08-04-53
@@ -832,7 +832,7 @@ lov om reisereservasjonssystemer	lov/2000-06-23-54
 lov om renter ved forsinket betaling|lov om rente ved forsinket betaling|lov om forsinket betaling|lov om forsinkelsesrente|forsinkelsesrenteloven|forseinkingsrentelova|forsinkelsesloven|morarenteloven|rl	lov/1976-12-17-100
 lov om rett til felles bolig og innbo|husstandsfellesskapsloven|samboerloven	lov/1991-07-04-45
 lov om rett til innsyn i dokument i offentleg verksemd|offentlighetsloven|offentleglova|offl	lov/2006-05-19-16
-lov om rett til miljøinformasjon|miljøinformasjonsloven|mil	lov/2003-05-09-31
+lov om rett til miljøinformasjon|miljøinformasjonsloven|mlinfl	lov/2003-05-09-31
 lov om retten til å delta i fiske og fangst|deltakerloven|deltakarlova	lov/1999-03-26-15
 lov om rettergangsendringer	lov/1964-12-04-2
 lov om rettergangsmåten i riksrettssaker|riksrettergangsloven	lov/1932-02-05-2
@@ -993,7 +993,7 @@ militære straffelov|militær straffelov|mil.strl|milstrl	lov/1902-05-22-13
 mortifikasjonsloven	lov/1959-12-18-1
 motorvognloven	lov/1926-02-20-2|lov/1912-06-21-2
 mønstringsloven	lov/1947-07-11-4
-naturvernloven	lov/1954-12-01-2
+lov om naturnvern|naturvernloven	1970-06-19-63|lov/1954-12-01-2
 navigatørloven	lov/1958-10-10
 nois-registerforskriften	forskrift/2005-06-17-611
 nord-norgeloven	lov/1952-06-28-18
@@ -1167,3 +1167,4 @@ yrkestransportforskriften	forskrift/2003-03-26-401
 yrkestransportloven|yrkestransportlova	lov/2002-06-21-45
 åndsverksloven|åvl	lov/1961-05-12-2|lov/1930-06-06-17
 ølloven	lov/1884-06-18
+tvisteloven|tvistemålsloven lov/2005-06-17-90
