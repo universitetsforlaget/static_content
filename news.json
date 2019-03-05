@@ -1050,7 +1050,7 @@
     "type": "literature",
     "published_at": "2019-01-11T11:10:00.000Z",
     "title": "Endringer i lov om vegtrafikk (vegtrafikkloven) § 3 er kommentert av forfatterne.",
-    "description": "<a href='lov/1965-06-18-4/%C2%A73/kommentar'>§ 3 «Grunnregler for trafikk»</a> er nå ajourført per 1. desember 2018. Ajourføringen innebærer ny rettspraksis, språklige endringer samt oppdatert henvisning til juridisk litteratur. En gjennomarbeidet revisjon av hele lovkommentaren kommer i 2019.",
+    "description": "<a href='/lov/1965-06-18-4/%C2%A73/kommentar'>§ 3 «Grunnregler for trafikk»</a> er nå ajourført per 1. desember 2018. Ajourføringen innebærer ny rettspraksis, språklige endringer samt oppdatert henvisning til juridisk litteratur. En gjennomarbeidet revisjon av hele lovkommentaren kommer i 2019.",
     "imageUrl": null,
     "contributors": [],
     "html": null
@@ -1063,7 +1063,7 @@
     "title": "«Rettslig regulering av norsk akvakultur» – ny bok på Juridika",
     "description": "Akvakulturnæringen er underlagt en omfattende offentlig regulering. I denne <a href='/fagbøker/rettslig-regulering-av-norsk-akvakultur/1'>boken</a> ser forfatteren nærmere på det sentrale regelverket som regulerer akvakulturnæringen, blant annet oppdrettstillatelser og krav til akvakulturanlegg.",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/rettslig-regulering-av-norsk-akvakultur-1-200px",
-    "resourceUrl": "/rettslig-regulering-av-norsk-akvakultur/1",
+    "resourceUrl": "/fagbøker/rettslig-regulering-av-norsk-akvakultur/1",
     "contributors": [],
     "html": null
   },
@@ -1073,9 +1073,9 @@
     "type": "literature",
     "published_at": "2019-01-23T10:00:00.000Z",
     "title": "«Gransking» — nytt tilskudd på Juridika",
-    "description": "Vårt digitale bibliotek vokser, og du kan nå <a href='fagbøker/gransking/1'>lese «Gransking»</a>  av Johan Giertsen på Juridika.",
+    "description": "Vårt digitale bibliotek vokser, og du kan nå <a href='/fagbøker/gransking/1'>lese «Gransking»</a>  av Johan Giertsen på Juridika.",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/gransking-1-200px",
-    "resourceUrl": "fagbøker/gransking/1",
+    "resourceUrl": "/fagbøker/gransking/1",
     "contributors": [],
     "html": null
   },
@@ -1147,7 +1147,7 @@
     "title": "Biblioteket utvides",
     "description": "<p>Etter ønsker fra flere er nå <a href='/fagbøker/vassdrags-og-energirett/1'>«Vassdrags- og energirett»</a> (2002) tilgjengelig på Juridika.</p><p>Vi jobber kontinuerlig med å utvide vårt bibliotek. Savner du en bok på Juridika som er utgitt av Universitetsforlaget, send oss en henvendelse til <a href='mailto:post@juridika.no'>post@juridika.no</a>.</p> <p>Vi forsøker å prioritere deres ønsker, men spesielt for eldre bøker kan det være utfordrende å få tak i digital utgave, samt samtykke til å publisere boken.</p>",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/vassdrags-og-energirett-1-200px",
-    "resourceUrl": "fagbøker/vassdrags-og-energirett/1",
+    "resourceUrl": "/fagbøker/vassdrags-og-energirett/1",
     "contributors": [],
     "html": null
   },
