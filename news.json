@@ -1291,7 +1291,7 @@
     "published_at": "2019-03-06T15:00:00.000Z",
     "title": "Ny funksjon: søkeforslag",
     "description": "<p>Vi har lansert automatiske søkeforslag på Juridika. Dette vil gjøre at du sparer tastetrykk og enklere og raskere finner de kildene du er på jakt etter.</p><p>Når du begynner å skrive noe i søkefeltet, vil det umiddelbart komme opp treff i titler på Juridika, både bøker, tidsskriftartikler og paragrafer. Ved søk på forfatternavn vil du få treff i forfatterens siste publikasjoner i kronologisk rekkefølge.</p><p>Når du klikker i søkefeltet, vil du se dine siste søkefraser, slik at du raskt kan gå til det innholdet du har brukt tidligere. Ved å trykke «Enter» får du et mer omfattende søketreff, hvor du selv kan avgrense og bla i søkeresultatet slik som før.</p>",
-    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/nye-funksjoner-ayfiesoek.png",
+    "imageUrl": null,
     "contributors": [],
     "html": null
   }
