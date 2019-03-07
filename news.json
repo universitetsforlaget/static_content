@@ -1294,5 +1294,16 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 58,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-03-07T15:00:00.000Z",
+    "title": "Flere bøker i det digitale biblioteket på Juridika",
+    "description": "<p>Vi utvider stadig vårt bibliotek og nå kan du lese:</p><p>«Hva er folkerett» av Geir Ulfstein.</p><p>«Hva er menneskerettigheter», 2. utg., av Njål Høstmælingen.</p><p>«Idrett og Juss», 4.utg., av Gunnar-Martin Kjenner.</p><p>«De minste barnas stemme» av Mette Sund Sjøvold og Kristin G. Furuholmen.</p><p>«Landbruksrett» av Thor Falkanger.</p>",
+    "imageUrl": null,
+    "contributors":[],
+    "html": null
   }
 ]
