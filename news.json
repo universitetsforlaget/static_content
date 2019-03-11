@@ -1306,5 +1306,16 @@
     "imageUrl": null,
     "contributors":[],
     "html": null
+  },
+  {
+    "id": 59,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-03-11T13:00:00.000Z",
+    "title": "Endringer i lov om straff (straffeloven) er kommentert av forfatter",
+    "description": "Verket er gjennomgått og ajourført av forfatter med all relevant høyesterettspraksis samt annen rettspraksis fra 1. juli 2018 frem til 1. januar 2019. Lovendringer i denne perioden er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors":[],
+    "html": null
   }
 ]
