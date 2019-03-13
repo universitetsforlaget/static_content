@@ -1317,5 +1317,17 @@
     "imageUrl": null,
     "contributors":[],
     "html": null
+  },
+  {
+    "id": 60,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-03-13T09:45:00.000Z",
+    "title": "Endringer i lov om grunnskolen og den vidaregåande opplæringa, (opplæringslova) er kommentert av forfatter",
+    "description": "Verket er gjennomgått og ajourført av forfatter med all relevant rettspraksis fra 17. januar 2018 frem til 1. februar 2019. Lovendringer i denne perioden er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors":[],
+    "html": null
   }
+
 ]
