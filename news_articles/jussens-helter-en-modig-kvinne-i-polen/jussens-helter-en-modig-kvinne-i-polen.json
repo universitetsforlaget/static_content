@@ -10,11 +10,7 @@
     "contributors": [
         {
             "slug": "hans-petter-graver",
-            "names": [
-                "Hans",
-                "Petter",
-                "Graver"
-            ],
+            "names": ["Hans","Petter","Graver"],
             "tags": [],
             "description": {},
             "featured": true,
