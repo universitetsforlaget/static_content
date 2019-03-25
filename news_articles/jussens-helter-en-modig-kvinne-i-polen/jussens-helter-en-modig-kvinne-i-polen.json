@@ -1,24 +1,49 @@
-{
-    "id": "jussens-helter-en-modig-kvinne-i-polen",
-    "serial_id": "jussens-helter",
-    "has_full_page_article": true,
-    "type": "serial_chapter",
-    "published_at": "2019-03-22T23:59:00.000Z",
-    "title": "Jussens helter 3: En modig kvinne i Polen",
-    "description": "Polens høyesterettspresident Małgorzata Gersdorf forsvarer domstolenes uavhengighet ved å nekte Polens regjering kontroll over hvem som skal være landets høyesterettsdommere. Regjeringen søker å ta hele Polens dommerstand i sitt jerngrep.",
-    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/dummy.jpg",
-    "contributors": [
-        {
-            "slug": "hans-petter-graver",
-            "names": ["Hans","Petter","Graver"],
-            "tags": [],
-            "description": {},
-            "featured": true,
-            "id": "hans-petter-graver",
-            "hasPortrait": true,
-            "articles": {},
-            "editions": []
-        }
-    ],
-    "html": null
-}
+[
+    {
+        "id": "jussens-helter",
+        "has_full_page_article": false,
+        "type": "serial",
+        "published_at": "2019-03-25T23:59:00.000Z",
+        "title": "Jussens helter",
+        "description": "En serie i tolv deler om jurister som valgte å følge sin samvittighet fremfor å leve opp til systemets krav.",
+        "imageUrl": null,
+        "contributors": [
+            {
+                "slug": "hans-petter-graver",
+                "names": ["Hans", "Petter", "Graver"],
+                "tags": [],
+                "description": {},
+                "featured": true,
+                "id": "hans-petter-graver",
+                "hasPortrait": true,
+                "articles": {},
+                "editions": []
+            }
+        ],
+        "html": null
+    },
+    {
+        "id": "jussens-helter-en-modig-kvinne-i-polen",
+        "serial_id": "jussens-helter",
+        "has_full_page_article": true,
+        "type": "serial_chapter",
+        "published_at": "2019-03-25T23:59:00.000Z",
+        "title": "Jussens helter 3: En modig kvinne i Polen",
+        "description": "Polens høyesterettspresident Małgorzata Gersdorf forsvarer domstolenes uavhengighet ved å nekte Polens regjering kontroll over hvem som skal være landets høyesterettsdommere. Regjeringen søker å ta hele Polens dommerstand i sitt jerngrep.",
+        "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/dummy.jpg",
+        "contributors": [
+            {
+                "slug": "hans-petter-graver",
+                "names": ["Hans","Petter","Graver"],
+                "tags": [],
+                "description": {},
+                "featured": true,
+                "id": "hans-petter-graver",
+                "hasPortrait": true,
+                "articles": {},
+                "editions": []
+            }
+        ],
+        "html": null
+    }
+]

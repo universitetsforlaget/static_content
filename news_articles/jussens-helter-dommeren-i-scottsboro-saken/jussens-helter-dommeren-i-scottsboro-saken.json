@@ -1,4 +1,27 @@
-
+[
+  {
+    "id": "jussens-helter",
+    "has_full_page_article": false,
+    "type": "serial",
+    "published_at": "2018-12-19T13:01:00.000Z",
+    "title": "Jussens helter",
+    "description": "En serie i tolv deler om jurister som valgte å følge sin samvittighet fremfor å leve opp til systemets krav.",
+    "imageUrl": null,
+    "contributors": [
+      {
+        "slug": "hans-petter-graver",
+        "names": ["Hans", "Petter", "Graver"],
+        "tags": [],
+        "description": {},
+        "featured": true,
+        "id": "hans-petter-graver",
+        "hasPortrait": true,
+        "articles": {},
+        "editions": []
+      }
+    ],
+    "html": null
+  },
   {
     "id": "jussens-helter-dommeren-i-scottsboro-saken",
     "serial_id": "jussens-helter",
@@ -22,4 +45,5 @@
       }
     ],
     "html": null
-  },
+  }
+]
