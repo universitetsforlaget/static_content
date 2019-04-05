@@ -1380,5 +1380,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 61,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-05T10:15:00.000Z",
+    "title": "Kommentaren til domstolloven er oppdatert",
+    "description": "<a href='/lov/1915-08-13-5'>Domstolloven</a> er gjennomgått og kommentaren er ajourført av forfatter. Alle lovendringer og ny rettspraksis er kommentert, i tillegg er det innarbeidet enkelte språklige endringer. Kommentaren er á jour per 4. april 2019.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
