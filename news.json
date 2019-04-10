@@ -1404,12 +1404,23 @@
     "html": null
   },
   {
-    "id": "63",
+    "id": 63,
     "has_full_page_article": false,
     "type": "literature",
     "published_at": "2019-04-09T16:00:00.000Z",
     "title": "Ola Ø. Nisja og Kaare A. Shetelig om sakførsel i retten",
     "description": "<iframe width='100%'' height='166' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/601336536&amp;color=822433&amp;hide_related=true'></iframe><p>Hvorfor er stevningen et avgjørende punkt før en rettsak? Er det ok å bruke smilefjes i en e-post til domstolen? Og hva er det viktigste en advokat bør bruke tiden på før hun går i retten? Som fersk advokat har man mange spørsmål.</p><p>God sakførsel krever både innsikt i skrevne prosessregler og praktisk erfaring. Vi har snakket med Ola Ø. Nisja og Kaare A. Shetelig som sammen med Christian Reusch har skrevet boka <a href='/fagbøker/ærede-rett/1'>Ærede rett – Kræsjkurs i sakførsel</a> hvor de deler sine beste råd og tips. </p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 64,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-10T11:35:00.000Z",
+    "title": "To nye tidsskrifter på Juridika",
+    "description": "Vi er stolte og glade for å kunne fortelle at <a href='/tidsskrifter/plan'>Plan</a> og <a href='/tidsskrifter/kart-og-plan'>Kart og plan</a> nå er tilgjengelig på Juridika. <em>Plan</em> er et tverrfaglig og tverrpolitisk møtested for debatt og formidling om samfunnsplanlegging, bolig- og byplan, og regionalutvikling. <em>Kart og plan</em> dekker fagområdene arealplanlegging, jordskifte, eiendomsfag, geomatikk og kartfag, samt de juridiske sidene ved disse temaene.",
     "imageUrl": null,
     "contributors": [],
     "html": null
