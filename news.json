@@ -1398,7 +1398,7 @@
     "type": "literature",
     "published_at": "2019-04-08T16:40:00.000Z",
     "title": "Nye bøker på Juridika",
-    "description": "<p>Vi har hatt flere utgivelser i det siste og de nyeste bøkene på Juridika er:</p><p><a href='/fagbøker/ærede-rett/1'>Ærede rett! Kræsjkurs i sakførsel</a> av Ola Ø. Nisja, Christian Reusch og Kaare Andreas Shetelig</p><p><a href='/fagbøker/arbeidsrett-onvios/2'>Arbeidsrett – Omstilling, nedbemanning og virksomhetsoverdragelse i offentlig sektor</a> av Ingeborg Moen Borgerud og Mona Næss</p><p><a href='/fagbøker/childrens-rights-in-norway/1'>Children’s Rights in Norway – An Implementation Paradox?</a> av Malcom Langford (red.), Marit Skivenes (red.) og Karl Harald Søvig (red.)</p><p>De to første bøkene er tilgjengelig for alle med abonnementet Juridika Nye fagbøker, mens den siste boken er en bok med åpen tilgang (open access) og er tilgjengelig for alle uavhengig av abonnement.</p>",
+    "description": "<p>Vi har hatt flere utgivelser i det siste og de nyeste bøkene på Juridika er:</p><p><a href='/fagbøker/ærede-rett/1'>«Ærede rett! – Kræsjkurs i sakførsel»</a> av Ola Ø. Nisja, Christian Reusch og Kaare Andreas Shetelig</p><p><a href='/fagbøker/arbeidsrett-onvios/2'>«Arbeidsrett – Omstilling, nedbemanning og virksomhetsoverdragelse i offentlig sektor»</a> av Ingeborg Moen Borgerud og Mona Næss</p><p><a href='/fagbøker/childrens-rights-in-norway/1'>«Children’s Rights in Norway – An Implementation Paradox?»</a> av Malcom Langford (red.), Marit Skivenes (red.) og Karl Harald Søvig (red.)</p><p>De to første bøkene er tilgjengelig for alle med abonnementet Juridika Nye fagbøker, mens den siste boken er en bok med åpen tilgang (open access) og er tilgjengelig for alle uavhengig av abonnement.</p>",
     "imageUrl": null,
     "contributors": [],
     "html": null
@@ -1421,6 +1421,17 @@
     "published_at": "2019-04-10T11:35:00.000Z",
     "title": "To nye tidsskrifter på Juridika",
     "description": "<p>Vi er stolte og glade for å kunne fortelle at <a href='/tidsskrifter/plan'>Plan</a> og <a href='/tidsskrifter/kart-og-plan'>Kart og plan</a> nå er tilgjengelig på Juridika.</p> <p><em>Plan</em> er et tverrfaglig og tverrpolitisk møtested for debatt og formidling om samfunnsplanlegging, bolig- og byplan, og regionalutvikling. <em>Kart og plan</em> dekker fagområdene arealplanlegging, jordskifte, eiendomsfag, geomatikk og kartfag, samt de juridiske sidene ved disse temaene.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 65,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-11T11:35:00.000Z",
+    "title": "Biblioteket vokser",
+    "description": "Nå er <a href='/fagbøker/innføring-i-juss/3'>«Innføring i juss»</a> og <a href='/fagbøker/grunnleggende-juridisk-metode/3'>«Grunnleggende juridisk metode»</a> av Erik M. Boe tilgjengelig på Juridika.",
     "imageUrl": null,
     "contributors": [],
     "html": null
