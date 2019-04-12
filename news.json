@@ -1409,7 +1409,7 @@
     "type": "literature",
     "published_at": "2019-04-09T16:00:00.000Z",
     "title": "Ola Ø. Nisja og Kaare A. Shetelig om sakførsel i retten",
-    "description": "<iframe width='100%'' height='166' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/601336536&amp;color=822433&amp;hide_related=true'></iframe><p>Hvorfor er stevningen et avgjørende punkt før en rettsak? Er det ok å bruke smilefjes i en e-post til domstolen? Og hva er det viktigste en advokat bør bruke tiden på før hun går i retten? Som fersk advokat har man mange spørsmål.</p><p>God sakførsel krever både innsikt i skrevne prosessregler og praktisk erfaring. Vi har snakket med Ola Ø. Nisja og Kaare A. Shetelig som sammen med Christian Reusch har skrevet boka <a href='/fagbøker/ærede-rett/1'>Ærede rett – Kræsjkurs i sakførsel</a> hvor de deler sine beste råd og tips. </p>",
+    "description": "<iframe width='100%' height='166' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/601336536&amp;color=822433&amp;hide_related=true'></iframe><p>Hvorfor er stevningen et avgjørende punkt før en rettsak? Er det ok å bruke smilefjes i en e-post til domstolen? Og hva er det viktigste en advokat bør bruke tiden på før hun går i retten? Som fersk advokat har man mange spørsmål.</p><p>God sakførsel krever både innsikt i skrevne prosessregler og praktisk erfaring. Vi har snakket med Ola Ø. Nisja og Kaare A. Shetelig som sammen med Christian Reusch har skrevet boka <a href='/fagbøker/ærede-rett/1'>Ærede rett – Kræsjkurs i sakførsel</a> hvor de deler sine beste råd og tips. </p>",
     "imageUrl": null,
     "contributors": [],
     "html": null
@@ -1434,6 +1434,31 @@
     "description": "Nå er <a href='/fagbøker/innføring-i-juss/3'>«Innføring i juss»</a> og <a href='/fagbøker/grunnleggende-juridisk-metode/3'>«Grunnleggende juridisk metode»</a> av Erik M. Boe tilgjengelig på Juridika.",
     "imageUrl": null,
     "contributors": [],
+    "html": null
+  },
+  {
+    "id": "høyesteretts-ullevål-dom-om-erstatning-for-psykisk-skade",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-04-12T11:20:00.000Z",
+    "title": "Høyesteretts «Ullevål-dom» om erstatning kan bli foregangsdom i Europa",
+    "description": "Høyesteretts dom, <a href='https: //lovdata.no/pro/document/HRSIV/avgjorelse/hr-2018-2080-a'>HR-2018-2080-A</a> («Ullevål-dommen»), om pårørendes rett til erstatning for psykiske skader skiller seg klart fra tidligere dommer på feltet. Det skriver jussprofessor <a href='https://www.uib.no/personer/Anne.Marie.Frøset'>Anne Marie Frøseth</a> i en ekspertkommentar i Tidsskrift for erstatningsrett, forsikringsrett og trygderett. Dommen markerer en klar kursendring i erstatningsretten og gjør Norge til et liberalt foregangsland i Europa. Men dommen kan også være prosesskapende.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/h%C3%B8yesteretts-ulleva%CC%8Al-dom-om-erstatning-for-psykisk-skade.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
     "html": null
   }
 ]
