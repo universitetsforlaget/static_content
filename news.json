@@ -1222,7 +1222,7 @@
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/kommentar-til-h%C3%B8yesterettsdom-om-sn%C3%B8krabbe-pa%CC%8A-svalbard.png",
     "contributors": [
       {
-        "id": "ruud",
+        "id": "morten-ruud",
         "mail": null,
         "names": [
           "Morten",
@@ -1234,7 +1234,7 @@
         "featured": true
       },
       {
-        "id": "ulfstein",
+        "id": "geir-ulfstein",
         "mail": null,
         "names": [
           "Geir",
