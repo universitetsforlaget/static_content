@@ -247,7 +247,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -328,7 +328,7 @@
           "H.P.",
           "Reusch"
         ],
-        "occupation": "Partner i Simonsen Vogt Wiig AS",
+        "occupation": "partner i Simonsen Vogt Wiig AS",
         "tags": [
           {
             "path": [
@@ -370,7 +370,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -407,7 +407,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -444,7 +444,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -483,7 +483,7 @@
           "Berggren",
           "Hagberg"
         ],
-        "occupation": "Advokatfullmektig i Schjødt",
+        "occupation": "advokatfullmektig i Schjødt",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -531,7 +531,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -601,7 +601,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -671,7 +671,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -719,7 +719,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -789,7 +789,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -849,7 +849,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -875,7 +875,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -900,7 +900,7 @@
           "Sunniva",
           "Rebbestad"
         ],
-        "occupation": "Skribent",
+        "occupation": "skribent",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -914,7 +914,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -936,7 +936,7 @@
         "id": "jan-fougner",
         "mail": null,
         "names": ["Jan", "Fougner"],
-        "occupation": "Partner i Wiersholm, Professor II, Handelshøyskolen BI",
+        "occupation": "partner i Wiersholm, Professor II, Handelshøyskolen BI",
         "tags": [],
         "description": null,
         "hasPortrait": true,
@@ -957,7 +957,7 @@
       {
         "slug": "hans-petter-graver",
         "names": ["Hans", "Petter", "Graver"],
-        "occupation": "Professor i rettsvitenskap, Universitetet i Oslo",
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
         "tags": [],
         "description": {},
         "featured": true,
@@ -982,7 +982,7 @@
       {
         "slug": "hans-petter-graver",
         "names": ["Hans", "Petter", "Graver"],
-        "occupation": "Professor i rettsvitenskap, Universitetet i Oslo",
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
         "tags": [],
         "description": {},
         "featured": true,
@@ -1011,7 +1011,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1047,7 +1047,7 @@
           "Sunniva",
           "Rebbestad"
         ],
-        "occupation": "Skribent",
+        "occupation": "skribent",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1069,7 +1069,7 @@
         "id": "torstein-frantzen",
         "mail": null,
         "names": ["Torstein", "Frantzen"],
-        "occupation": "Lagdommer i Gulating",
+        "occupation": "lagdommer i Gulating",
         "tags": [
         ],
         "description": null,
@@ -1131,7 +1131,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1153,7 +1153,7 @@
       {
         "slug": "hans-petter-graver",
         "names": ["Hans", "Petter", "Graver"],
-        "occupation": "Professor i rettsvitenskap, Universitetet i Oslo",
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
         "tags": [],
         "description": {},
         "featured": true,
@@ -1205,7 +1205,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1231,7 +1231,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1267,7 +1267,7 @@
           "Geir",
           "Ulfstein"
         ],
-        "occupation": "Professor",
+        "occupation": "professor",
         "tags":[],
         "description": null,
         "hasPortrait": false,
@@ -1280,7 +1280,7 @@
           "Morten",
           "Ruud"
         ],
-        "occupation": "Gjesteforsker ved PluriCourts, Universitetet i Oslo",
+        "occupation": "gjesteforsker ved PluriCourts, Universitetet i Oslo",
         "tags":[],
         "description": null,
         "hasPortrait": false,
@@ -1306,7 +1306,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1388,7 +1388,7 @@
           "Petter",
           "Graver"
         ],
-        "occupation": "Professor i rettsvitenskap, Universitetet i Oslo",
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
         "tags": [],
         "description": {},
         "featured": true,
@@ -1416,7 +1416,7 @@
           "Tarjei",
           "Thorkildsen"
         ],
-        "occupation": "Partner, BAHR",
+        "occupation": "partner, BAHR",
         "tags": [],
         "description": null,
         "hasPortrait": true,
@@ -1497,7 +1497,7 @@
           "Pryser",
           "Libell"
         ],
-        "occupation": "Nyhetsredaktør Juridika",
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
