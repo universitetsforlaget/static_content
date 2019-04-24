@@ -1505,5 +1505,27 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 66,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-24T13:00:00.000Z",
+    "title": "Endringer i lov om dyrevelferd (dyrevelferdsloven) er kommentert av forfatterne",
+    "description": "Verket er gjennomgått og ajourført av forfatterne per 1. mars 2019. Ajourføringen inneholder blant annet endringer i §§ 3-6, § 12, § 14, § 24, § 32, § 33 og § 37. Ny relevant rettspraksis er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 67,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-24T13:10:00.000Z",
+    "title": "Endringer i lov om skatteforvaltning (skatteforvaltningsloven) er kommentert av forfatter",
+    "description": "Verket er gjennomgått og ajourført av forfatter per 1. mars 2019. Endringer i lov og forskrift, samt relevant rettspraksis er kommentert og innarbeidet.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
