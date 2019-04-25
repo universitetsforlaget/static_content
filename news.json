@@ -1527,5 +1527,16 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 68,
+    "has_full_page_article": false,
+    "type": "featured",
+    "published_at": "2019-04-25T13:00:00.000Z",
+    "title": "Driftsmelding: Juridika har problemer med tilganger",
+    "description": "<p>Vi opplever for tiden problemer med tilgangsstyringen, og jobber med å løse saken.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
