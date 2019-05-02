@@ -1538,5 +1538,17 @@
     "imageUrl": null,
     "contributors": [],
     "html": null
+  },
+  {
+    "id": 69,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-02T09:28:00.000Z",
+    "title": "Tilgang til fagbøker på Juridika",
+    "description": "<p>Fra 1.mai er bøker som er utgitt i 2018 ikke lenger beskyttet av bokavtalen, og bøkene er nå også tilgjengelig for alle med Juridika premium abonnement.</p><p>Har du ikke tilgang til bøker utgitt i 2019, bestill pakken Juridika Nye fagbøker på post@juridika.no, eller ta kontakt per telefon: 24 14 75 00.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
+  
 ]
