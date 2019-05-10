@@ -1573,11 +1573,37 @@
     "html": null
   },
   {
+    "id": "krigsrettsekspert-aharon-barak-er-unntaket-som-bekrefter-regelen",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-05-10T11:20:00.000Z",
+    "title": "",
+    "description": "",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-en-dommer-pa%CC%8A-slagmarken_3.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
     "id": "jussens-helter-en-dommer-på-slagmarken",
     "serial_id": "jussens-helter",
     "has_full_page_article": true,
     "type": "serial_chapter",
-    "published_at": "2019-05-08T23:59:00.000Z",
+    "published_at": "2019-05-10T23:59:00.000Z",
     "title": "Jussens helter 4: En dommer på slagmarken",
     "description": "På slagmarken tier retten, sies det. Men historien om den israelske høyesterettspresidenten Aharon Barak er historien om en dommer som taler rettens sak, også midt i krig og terror.",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-en-dommer-pa%CC%8A-slagmarken_2.jpg",
