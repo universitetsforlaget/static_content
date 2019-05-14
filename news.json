@@ -1626,5 +1626,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 72,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-14T14:15:00.000Z",
+    "title": "Ny bok på Juridika: «Norsk arbeidsrett – styringsrett, samarbeid og arbeidstakervern» av Jan Fougner",
+    "description": "<a href='/fagbøker/norsk_arbeidsrett_1'>Norsk arbeidsrett</a> er et nytt standardverk innen arbeidsretten. <a href='/forfattere/jan-fougner'>Fougner</a> ser på helheten i faget på tvers av det tradisjonelle skillet mellom individuell og kollektiv arbeidsrett. Boken gir en beskrivelse av arbeidsrettens grunnleggende prinsipper og setter disse inn i en historisk og politisk sammenheng.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
