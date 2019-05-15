@@ -1,0 +1,25 @@
+{
+    "id": "konspirasjonsteoriene-om-norske-jurister",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2018-05-15T23:00:00.000Z",
+    "title": "Konspirasjonsteoriene om norske jurister",
+    "description": "Ordet «konspirasjonsteori» er i vinden etter fake news. Vi har samlet konspirasjonsteoriene om norske jurister – og de var mange.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/konspirasjonsteoriene-om-norske-jurister.jpg",
+    "contributors": [
+        {
+            "id": "henrik-pryser-libell",
+            "mail": "henrik.pryser.libell@universitetforlaget.no",
+            "names": [
+                "Henrik",
+                "Pryser",
+                "Libell"
+            ],
+            "tags": [],
+            "description": null,
+            "hasPortrait": false,
+            "featured": true
+        }
+    ],
+    "html": null
+}
