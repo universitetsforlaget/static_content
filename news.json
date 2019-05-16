@@ -1662,5 +1662,16 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 73,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-16T14:25:00.000Z",
+    "title": "Ny lovkommentar på Juridika: Personopplysningsloven med ajourført personvernforordningen (GDPR)",
+    "description": "<p>Forfatterne av kommentarutgaven til GDPR er nå ute med ny kommentarutgave til personopplysningsloven.</p><p>Denne kommentarutgaven kan leses i bokform som pdf, eller som to ajourførte kommentarutgaver til personopplysningsloven og GDPR. Verkene er begge à jour per mars 2019.</p><p>Den 20. juli 2018 trådte en ny personopplysningslov i kraft i Norge. Loven gjennomfører EUs personvernforordning (GDPR) i norsk rett og inneholder også enkelte nasjonale særbestemmelser som supplerer forordningen. Personvernforordningen fastsetter vilkår for å behandle personopplysninger og gir individet en rekke rettigheter ved behandlingen. I tillegg gir den bestemmelser om tilsyn, erstatning og sanksjoner. Denne kommentarutgaven gir veiledning i hvordan de enkelte bestemmelsene i personopplysningsloven og personvernforordningen skal forstås og anvendes.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
