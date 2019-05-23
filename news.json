@@ -1787,5 +1787,27 @@
       }
     ],
     "html": null
+  },
+  {
+    "id": 74,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-22T11:33:00.000Z",
+    "title": "Endringer i lov om konfliktrådsbehandling (konfliktrådsloven) er kommentert av forfatter.",
+    "description": "Verket er gjennomgått og ajourført av forfatter per 1. mai 2019. Ajourføringen inneholder blant annet ny § 9a. Relevant rettspraksis er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 75,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-22T11:40:00.000Z",
+    "title": "Ny lovkommentar på Juridika: Sivilbeskyttelsesloven.",
+    "description": "<p>Sivilbeskyttelsesloven gir rettslig uttrykk for hvordan Norge vil forebygge eller begrense skader som er natur- eller menneskeskapte. Typiske eksempler på uønskede hendelser er flom, kjemiske ulykker, brann og terrorangrep. Myndighetene kan i slike tilfeller fatte beslutninger om griper dypt inn i borgernes hverdag. De lovbestemte fullmaktene kan blant annet være pålegg om tvangsevakuering av befolkningen eller rekvisisjon av fast eiendom.</p><p>Lovkommentaren redegjør for hensynene bak bestemmelsene og gjør dem lettere tilgjengelig for dem som skal anvende reglene. Det pekes på mulige valg og juridiske konsekvenser av disse.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
   }
 ]
