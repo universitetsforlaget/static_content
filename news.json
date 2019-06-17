@@ -247,6 +247,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -327,6 +328,7 @@
           "H.P.",
           "Reusch"
         ],
+        "occupation": "partner i Simonsen Vogt Wiig AS",
         "tags": [
           {
             "path": [
@@ -368,6 +370,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -404,6 +407,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -440,6 +444,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -464,6 +469,21 @@
           "Martin",
           "Jetlund"
         ],
+        "occupation": "partner og leder for arbeidsrett og pensjon i Schjødt",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": false
+      },
+      {
+        "id": "marie-berggren-hagberg",
+        "mail": null,
+        "names": [
+          "Marie",
+          "Berggren",
+          "Hagberg"
+        ],
+        "occupation": "advokatfullmektig i Schjødt",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -511,6 +531,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -580,6 +601,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -649,6 +671,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -696,6 +719,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -740,11 +764,11 @@
   {
     "id": 45,
     "has_full_page_article": false,
-    "type": "juridika",
+    "type": "featured",
     "published_at": "2018-10-23T11:30:00.000Z",
     "title": "Ny funksjon – kopiering av tekst med automatisk referanse",
-    "description": "Vi har lansert en ny funksjon for kopiering av tekst. Når du kopierer ønsket tekst og limer det inn i et word-dokument vil du automatisk få med referansen til kilden. I første omgang vil ikke denne funksjonaliteten være tilgjengelig i nettleserne Internett Explorer og Edge versjoner eldre enn april 2018.",
-    "imageUrl": null,
+    "description": "Vi har lansert en ny funksjon for kopiering av tekst. Når du kopierer ønsket tekst og limer det inn i en tekstbehandler (eks. Microsoft Word) vil du automatisk få med referansen til kilden. I første omgang vil ikke denne funksjonaliteten være tilgjengelig i nettleserne Internett Explorer og Edge versjoner eldre enn april 2018. Nettlesere som støtter funksjonen er blant annet Google Chrome og Firefox.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/kopieringsfunksjon.png",
     "contributors": [],
     "html": null
   },
@@ -765,6 +789,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -824,6 +849,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -849,6 +875,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -867,6 +894,19 @@
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/storbritannias-juridiske-eu-forpliktelser-vil-vare-100-a%CC%8Ar-etter-brexit.jpeg",
     "contributors": [
       {
+        "id": "sunniva-rebbestad",
+        "mail": "",
+        "names": [
+          "Sunniva",
+          "Rebbestad"
+        ],
+        "occupation": "skribent",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      },
+      {
         "id": "henrik-pryser-libell",
         "mail": "henrik.pryser.libell@universitetforlaget.no",
         "names": [
@@ -874,18 +914,7 @@
           "Pryser",
           "Libell"
         ],
-        "tags": [],
-        "description": null,
-        "hasPortrait": false,
-        "featured": true
-      },
-      {
-        "id": "sunniva-rebbestad",
-        "mail": "",
-        "names": [
-          "Sunniva",
-          "Rebbestad"
-        ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -907,6 +936,7 @@
         "id": "jan-fougner",
         "mail": null,
         "names": ["Jan", "Fougner"],
+        "occupation": "partner i Wiersholm, Professor II, Handelshøyskolen BI",
         "tags": [],
         "description": null,
         "hasPortrait": true,
@@ -927,6 +957,7 @@
       {
         "slug": "hans-petter-graver",
         "names": ["Hans", "Petter", "Graver"],
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
         "tags": [],
         "description": {},
         "featured": true,
@@ -946,11 +977,12 @@
     "published_at": "2018-12-19T13:01:00.000Z",
     "title": "Jussens helter 1: Dommeren i Scottsboro-saken",
     "description": "Av og til kan en dommer stå under et voldsomt press for å bryte med det han vet er lov og rett. James Edwin Horton dømte i en profilert gjengvoldtektsak i Decatur, Alabama i 1933.",
-    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-dommeren-i-scottsboro-saken3.jpg",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-dommeren-i-scottsboro-saken3.png",
     "contributors": [
       {
         "slug": "hans-petter-graver",
         "names": ["Hans", "Petter", "Graver"],
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
         "tags": [],
         "description": {},
         "featured": true,
@@ -979,6 +1011,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1014,6 +1047,7 @@
           "Sunniva",
           "Rebbestad"
         ],
+        "occupation": "skribent",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1026,30 +1060,8 @@
     "id": "kommentar-til-høyesterettsdom-om-ugjenkallelighet",
     "has_full_page_article": true,
     "type": "expert_comment",
-    "published_at": "2019-01-11T10:30:00.000Z",
-    "title": "Kommentar til høyesterettsdom om ugjenkallelighet",
-    "description": "En fersk høyestrettsdom er et varsko om at testament ikke alltid kan kalles tilbake. Men Høyesterett krever sterke holdepunkter for at arvelateren har ment å binde testasjonskompetansen.",
-    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/kommentar-til-h%C3%B8yesterettsdom-om-ugjenkallelighet.jpeg",
-    "contributors": [
-      {
-        "id": "torstein-frantzen",
-        "mail": null,
-        "names": ["Torstein", "Frantzen"],
-        "tags": [
-        ],
-        "description": null,
-        "hasPortrait": false,
-        "featured": false
-      }
-    ],
-    "html": null
-  },
-  {
-    "id": "kommentar-til-høyesterettsdom-om-ugjenkallelighet",
-    "has_full_page_article": true,
-    "type": "expert_comment",
     "published_at": "2019-01-11T10:50:00.000Z",
-    "title": "Kommentar til høyesterettsdom om ugjenkallelighet",
+    "title": "Kommentar til Høyesteretts dom om ugjenkallelighet",
     "description": "En fersk høyestrettsdom er et varsko om at testament ikke alltid kan kalles tilbake. Men Høyesterett krever sterke holdepunkter for at arvelateren har ment å binde testasjonskompetansen.",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/kommentar-til-h%C3%B8yesterettsdom-om-ugjenkallelighet.jpeg",
     "contributors": [
@@ -1057,6 +1069,7 @@
         "id": "torstein-frantzen",
         "mail": null,
         "names": ["Torstein", "Frantzen"],
+        "occupation": "lagdommer i Gulating",
         "tags": [
         ],
         "description": null,
@@ -1072,7 +1085,7 @@
     "type": "literature",
     "published_at": "2019-01-11T11:10:00.000Z",
     "title": "Endringer i lov om vegtrafikk (vegtrafikkloven) § 3 er kommentert av forfatterne.",
-    "description": "<a href='lov/1965-06-18-4/%C2%A73/kommentar'>§ 3 «Grunnregler for trafikk»</a> er nå ajourført per 1. desember 2018. Ajourføringen innebærer ny rettspraksis, språklige endringer samt oppdatert henvisning til juridisk litteratur. En gjennomarbeidet revisjon av hele lovkommentaren kommer i 2019.",
+    "description": "<a href='/lov/1965-06-18-4/%C2%A73/kommentar'>§ 3 «Grunnregler for trafikk»</a> er nå ajourført per 1. desember 2018. Ajourføringen innebærer ny rettspraksis, språklige endringer samt oppdatert henvisning til juridisk litteratur. En gjennomarbeidet revisjon av hele lovkommentaren kommer i 2019.",
     "imageUrl": null,
     "contributors": [],
     "html": null
@@ -1085,7 +1098,7 @@
     "title": "«Rettslig regulering av norsk akvakultur» – ny bok på Juridika",
     "description": "Akvakulturnæringen er underlagt en omfattende offentlig regulering. I denne <a href='/fagbøker/rettslig-regulering-av-norsk-akvakultur/1'>boken</a> ser forfatteren nærmere på det sentrale regelverket som regulerer akvakulturnæringen, blant annet oppdrettstillatelser og krav til akvakulturanlegg.",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/rettslig-regulering-av-norsk-akvakultur-1-200px",
-    "resourceUrl": "/rettslig-regulering-av-norsk-akvakultur/1",
+    "resourceUrl": "/fagbøker/rettslig-regulering-av-norsk-akvakultur/1",
     "contributors": [],
     "html": null
   },
@@ -1095,10 +1108,683 @@
     "type": "literature",
     "published_at": "2019-01-23T10:00:00.000Z",
     "title": "«Gransking» — nytt tilskudd på Juridika",
-    "description": "Vårt digitale bibliotek vokser, og du kan nå <a href='fagbøker/gransking/1'>lese «Gransking»</a>  av Johan Giertsen på Juridika.",
+    "description": "Vårt digitale bibliotek vokser, og du kan nå <a href='/fagbøker/gransking/1'>lese «Gransking»</a>  av Johan Giertsen på Juridika.",
     "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/gransking-1-200px",
-    "resourceUrl": "fagbøker/gransking/1",
+    "resourceUrl": "/fagbøker/gransking/1",
     "contributors": [],
+    "html": null
+  },
+  {
+    "id": "lynkurs-nytt-i-personvernretten",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-01-25T13:00:00.000Z",
+    "title": "Lynkurs: Nytt i personvernretten",
+    "description": "Denne uken kom den første gigaboten etter EUs personvernforordning (GDPR) – en fransk bot på 50 millioner euro til Google. Juridika Innsikt presenterer her en oversikt over viktige endringer i rettskildebildet etter at ny personopplysningslov ble innført i 2018, og hva som er verdt å følge med på fremover.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/lynkurs-nytt-i-personvernretten.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": "jussens-helter-hitlers-ulydige-byråkrat",
+    "serial_id": "jussens-helter",
+    "has_full_page_article": true,
+    "type": "serial_chapter",
+    "published_at": "2019-02-07T11:50:00.000Z",
+    "title": "Jussens helter 2: Hitlers ulydige byråkrat",
+    "description": "Den tyske advokaten og byråkraten Hans Calmeyer får snart sitt eget museum i Tyskland. «Jussens svar på Schindler» reddet tusenvis av mennesker fra masseutryddelse ved å godta falske bevis og finne små hull i loven som begrenset jødedeportasjonene i Nederland.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-hitlers-ulydige-byra%CC%8Akrat0.jpg",
+    "contributors": [
+      {
+        "slug": "hans-petter-graver",
+        "names": ["Hans", "Petter", "Graver"],
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
+        "tags": [],
+        "description": {},
+        "featured": true,
+        "id": "hans-petter-graver",
+        "hasPortrait": true,
+        "articles": {},
+        "editions": []
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 53,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-02-07T13:00:00.000Z",
+    "title": "Flere nye fagbøker tilgjengelig på Juridika",
+    "description": "I 2019 har vi allerede gitt ut to bøker: <a href='/fagbøker/interpretation-of-commercial-contracts/1'>«Interpretation of Commercial Contracts»</a> og <a href='/fagbøker/plan-og-bygningsrett-kort-forklart/2'>«Plan- og bygningsrett, kort forklart, 2.utgave»</a>. Bøkene er tilgjengelig på Juridika for alle med abonnementet <strong>Juridika Nye fagbøker</strong>.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 54,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-02-12T16:15:00.000Z",
+    "title": "Biblioteket utvides",
+    "description": "<p>Etter ønsker fra flere er nå <a href='/fagbøker/vassdrags-og-energirett/1'>«Vassdrags- og energirett»</a> (2002) tilgjengelig på Juridika.</p><p>Vi jobber kontinuerlig med å utvide vårt bibliotek. Savner du en bok på Juridika som er utgitt av Universitetsforlaget, send oss en henvendelse til <a href='mailto:post@juridika.no'>post@juridika.no</a>.</p> <p>Vi forsøker å prioritere deres ønsker, men spesielt for eldre bøker kan det være utfordrende å få tak i digital utgave, samt samtykke til å publisere boken.</p>",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/litteratur-edition-covers/vassdrags-og-energirett-1-200px",
+    "resourceUrl": "/fagbøker/vassdrags-og-energirett/1",
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": "bi-skal-utdanne-økonom-jurister",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-02-15T14:50:00.000Z",
+    "title": "BI skal utdanne “økonom-jurister”",
+    "description": "Handelshøyskolen BI har fått lov å tilby Norges første mastergrad i forretningsjus. – En helt ny profesjon, jubler NHO, som tror fremtiden byr på flere blandingsjurister.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/bi-skal-utdanne-%C3%B8konomi-jurister.png",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": "lynkurs-hva-er-nytt-i-arve-og-familieretten",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-02-19T12:00:00.000Z",
+    "title": "Lynkurs: Hva er nytt i arve- og familieretten?",
+    "description": "I 2019 vedtas ny lov om arv og dødsboskifte. Juridika Innsikt har bedt arve- og familierettseksperter kommentere hva den betyr, og dele andre viktige bevegelser på rettsområdet de senere år.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/lynkurs-hva-er-nytt-i-arve-og-familieretten.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 55,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-02-22T16:13:40.000Z",
+    "title": "Ny lovkommentar på Juridika - Ekspropriasjonserstatningsloven",
+    "description": "Fjerde utgave av lovkommentaren til <a href='/lov/1984-04-06-17'>Ekspropriasjonserstatningsloven</a> er nå tilgjengelig på Juridika. Lovkommentaren inneholder de viktigste reglene om vederlag ved ekspropriasjon av fast eiendom. Her får du en grundig og oppdatert omtale av hver enkelt paragraf i loven. Viktige ekspropriasjonsrettslige regler er begrunnet og drøftet slik at også studenter skal ha glede av boken. Lovkommentaren er à jour pr. september 2018.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": "kommentar-til-høyesterettsdom-om-snøkrabbe",
+    "has_full_page_article": true,
+    "type": "expert_comment",
+    "published_at": "2019-02-27T10:00:00.000Z",
+    "title": "Kommentar til Høyesteretts dom om snøkrabbe",
+    "description": "Geir Ulfstein og Morten Ruud kommenterer Høyesteretts dom HR-2019-282-S, «snøkrabbedommen». – Dommen har langt på vei strafferettslig avklart at Norge kan regulere fangst i havet rundt Svalbard, men tolkningen av Svalbardtraktaten kan fortsatt prøves i sivile søksmål, skriver folkerettsekspertene. Bak konflikt om krabber og fisk rundt Svalbard hviler utsikten til et arktisk oljeeventyr.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/kommentar-til-h%C3%B8yesterettsdom-om-sn%C3%B8krabbe-pa%CC%8A-svalbard.png",
+    "contributors": [
+      {
+        "id": "geir-ulfstein",
+        "mail": null,
+        "names": [
+          "Geir",
+          "Ulfstein"
+        ],
+        "occupation": "professor",
+        "tags":[],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      },
+      {
+        "id": "morten-ruud",
+        "mail": null,
+        "names": [
+          "Morten",
+          "Ruud"
+        ],
+        "occupation": "gjesteforsker ved PluriCourts, Universitetet i Oslo",
+        "tags":[],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": "fremtidsfullmakter-går-til-høyesterett",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-03-04T11:30:00.000Z",
+    "title": "Fremtidsfullmakter går til Høyesterett",
+    "description": "Høyesterett skal behandle sin første sak om det ferske rettsinstituttet fremtidsfullmakt. Fremtidsfullmakt er en frivillig, privatrettslig ordning, som det ble åpnet for i den nye vergemålsloven av 2013, men som til nå har vært en hvit flekk på rettskildekartet.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/fremtidsfullmakter-ga%CC%8Ar-til-h%C3%B8yesterett.png",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 56,
+    "has_full_page_article": false,
+    "type": "featured",
+    "published_at": "2019-03-06T15:00:00.000Z",
+    "title": "Nye funksjoner: «gå til side» og «gå til §»",
+    "description": "<p>Vi har laget en funksjon kalt «gå til side» som gjør at du når du er inne i en fagbok, kan skrive inn et sidetall og tas direkte til ønsket side. For de ajourførte lovkommentarene finner du funksjonen «gå til §». Dette gjør at du raskt og enkelt kan manøvrere deg til ønsket sidetall eller paragraf.</p>",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/nye-funksjoner-gaa-til.png",
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 57,
+    "has_full_page_article": false,
+    "type": "featured",
+    "published_at": "2019-03-06T15:00:00.000Z",
+    "title": "Ny funksjon: søkeforslag",
+    "description": "<p>Vi har lansert automatiske søkeforslag på Juridika. Dette vil gjøre at du sparer tastetrykk og enklere og raskere finner de kildene du er på jakt etter.</p><p>Når du begynner å skrive noe i søkefeltet, vil det umiddelbart komme opp treff i titler på Juridika, både bøker, tidsskriftartikler og paragrafer. Ved søk på forfatternavn vil du få treff i forfatterens siste publikasjoner i kronologisk rekkefølge.</p><p>Når du klikker i søkefeltet, vil du se dine siste søkefraser, slik at du raskt kan gå til det innholdet du har brukt tidligere. Ved å trykke «Enter» får du et mer omfattende søketreff, hvor du selv kan avgrense og bla i søkeresultatet slik som før.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+
+  },
+  {
+    "id": 58,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-03-07T15:00:00.000Z",
+    "title": "Flere bøker i det digitale biblioteket på Juridika",
+    "description": "<p>Vi utvider stadig vårt bibliotek og nå kan du lese:</p><p><a href='/fagbøker/hva-er-folkerett/1'>«Hva er folkerett»</a> av Geir Ulfstein.</p><p><a href='/fagbøker/hva-er-menneskerettigheter/2'>«Hva er menneskerettigheter»</a>, 2. utg., av Njål Høstmælingen.</p><p><a href='/fagbøker/idrett-og-juss/4'>«Idrett og Juss»</a>, 4.utg., av Gunnar-Martin Kjenner.</p><p><a href='/fagbøker/de-minste-barnas-stemme/1'>«De minste barnas stemme»</a> av Mette Sund Sjøvold og Kristin G. Furuholmen.</p><p><a href='/fagbøker/landbruksrett/1'>«Landbruksrett»</a> av Thor Falkanger.</p>",
+    "imageUrl": null,
+    "contributors":[],
+    "html": null
+  },
+  {
+    "id": 59,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-03-11T13:00:00.000Z",
+    "title": "Endringer i lov om straff (straffeloven) er kommentert av forfatter",
+    "description": "Verket er gjennomgått og ajourført av forfatter med all relevant høyesterettspraksis samt annen rettspraksis fra 1. juli 2018 frem til 1. januar 2019. Lovendringer i denne perioden er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors":[],
+    "html": null
+  },
+  {
+    "id": 60,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-03-13T09:45:00.000Z",
+    "title": "Endringer i lov om grunnskolen og den vidaregåande opplæringa, (opplæringslova) er kommentert av forfatter",
+    "description": "Verket er gjennomgått og ajourført av forfatter med all relevant rettspraksis fra 17. januar 2018 frem til 1. februar 2019. Lovendringer i denne perioden er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors":[],
+    "html": null
+  },
+  {
+    "id": "jussens-helter-en-modig-kvinne-i-polen",
+    "serial_id": "jussens-helter",
+    "has_full_page_article": true,
+    "type": "serial_chapter",
+    "published_at": "2019-03-27T10:00:00.000Z",
+    "title": "Jussens helter 3: En modig kvinne i Polen",
+    "description": "Polens høyesterettspresident Małgorzata Gersdorf forsvarer domstolenes uavhengighet ved å nekte Polens regjering kontroll over hvem som skal være landets høyesterettsdommere. Regjeringen søker å ta hele Polens dommerstand i sitt jerngrep.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-en-modig-kvinne-i-polen.jpg",
+    "contributors": [
+      {
+        "slug": "hans-petter-graver",
+        "names": [
+          "Hans",
+          "Petter",
+          "Graver"
+        ],
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
+        "tags": [],
+        "description": {},
+        "featured": true,
+        "id": "hans-petter-graver",
+        "hasPortrait": true,
+        "articles": {},
+        "editions": []
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": "kommentar-til-høyesterettsdom-i-skanska-saken",
+    "has_full_page_article": true,
+    "type": "expert_comment",
+    "published_at": "2019-03-27T14:20:00.000Z",
+    "title": "Kommentar til Høyesteretts dom i Skanska-saken",
+    "description": "Høyesteretts dom HR-2019-424-A, «Skanska-dommen», får betydning for oppsigelsesvernet etter tariffavtale og får følger for Arbeidsrettens tolkning av samme emne, kommenterer arbeidsrettekspert og BAHR-partner Tarjei Thorkildsen. – Det såkalte ansiennitetprinsipp anses av Høyesterett som et startpunkt, men ikke som hovedregel når en bedrift velger hvem som må sies opp.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/SoMe-ekspert-tarjei-thorkildsen.png",
+    "contributors": [
+      {
+        "id": "tarjei-thorkildsen",
+        "mail": null,
+        "names": [
+          "Tarjei",
+          "Thorkildsen"
+        ],
+        "occupation": "partner, BAHR",
+        "tags": [],
+        "description": null,
+        "hasPortrait": true,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 61,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-05T10:15:00.000Z",
+    "title": "Kommentaren til domstolloven er oppdatert",
+    "description": "<a href='/lov/1915-08-13-5'>Domstolloven</a> er gjennomgått og kommentaren er ajourført av forfatter. Alle lovendringer og ny rettspraksis er kommentert, i tillegg er det innarbeidet enkelte språklige endringer. Kommentaren er á jour per 4. april 2019.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 62,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-08T16:40:00.000Z",
+    "title": "Nye bøker på Juridika",
+    "description": "<p>Vi har hatt flere utgivelser i det siste og de nyeste bøkene på Juridika er:</p><p><a href='/fagbøker/ærede-rett/1'>«Ærede rett! – Kræsjkurs i sakførsel»</a> av Ola Ø. Nisja, Christian Reusch og Kaare Andreas Shetelig</p><p><a href='/fagbøker/arbeidsrett-onvios/2'>«Arbeidsrett – Omstilling, nedbemanning og virksomhetsoverdragelse i offentlig sektor»</a> av Ingeborg Moen Borgerud og Mona Næss</p><p><a href='/fagbøker/childrens-rights-in-norway/1'>«Children’s Rights in Norway – An Implementation Paradox?»</a> av Malcom Langford (red.), Marit Skivenes (red.) og Karl Harald Søvig (red.)</p><p>De to første bøkene er tilgjengelig for alle med abonnementet Juridika Nye fagbøker, mens den siste boken er en bok med åpen tilgang (open access) og er tilgjengelig for alle uavhengig av abonnement.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 63,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-09T16:00:00.000Z",
+    "title": "Ola Ø. Nisja og Kaare A. Shetelig om sakførsel i retten",
+    "description": "<iframe width='100%' height='166' scrolling='no' frameborder='no' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/601336536&amp;color=822433&amp;hide_related=true'></iframe><p>Hvorfor er stevningen et avgjørende punkt før en rettsak? Er det ok å bruke smilefjes i en e-post til domstolen? Og hva er det viktigste en advokat bør bruke tiden på før hun går i retten? Som fersk advokat har man mange spørsmål.</p><p>God sakførsel krever både innsikt i skrevne prosessregler og praktisk erfaring. Vi har snakket med Ola Ø. Nisja og Kaare A. Shetelig som sammen med Christian Reusch har skrevet boka <a href='/fagbøker/ærede-rett/1'>Ærede rett – Kræsjkurs i sakførsel</a> hvor de deler sine beste råd og tips. </p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 64,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-10T11:35:00.000Z",
+    "title": "To nye tidsskrifter på Juridika",
+    "description": "<p>Vi er stolte og glade for å kunne fortelle at <a href='/tidsskrifter/plan'>Plan</a> og <a href='/tidsskrifter/kart-og-plan'>Kart og plan</a> nå er tilgjengelig på Juridika.</p> <p><em>Plan</em> er et tverrfaglig og tverrpolitisk møtested for debatt og formidling om samfunnsplanlegging, bolig- og byplan, og regionalutvikling. <em>Kart og plan</em> dekker fagområdene arealplanlegging, jordskifte, eiendomsfag, geomatikk og kartfag, samt de juridiske sidene ved disse temaene.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 65,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-11T11:35:00.000Z",
+    "title": "Biblioteket vokser",
+    "description": "Nå er <a href='/fagbøker/innføring-i-juss/3'>«Innføring i juss»</a> og <a href='/fagbøker/grunnleggende-juridisk-metode/3'>«Grunnleggende juridisk metode»</a> av Erik M. Boe tilgjengelig på Juridika.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": "høyesteretts-ullevål-dom-om-erstatning-for-psykisk-skade",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-04-12T11:20:00.000Z",
+    "title": "Høyesteretts «Ullevål-dom» om erstatning kan bli foregangsdom i Europa",
+    "description": "Høyesteretts dom, <a href='https://lovdata.no/pro/document/HRSIV/avgjorelse/hr-2018-2080-a'>HR-2018-2080-A</a> («Ullevål-dommen»), om pårørendes rett til erstatning for psykiske skader skiller seg klart fra tidligere dommer på feltet. Det skriver jussprofessor <a href='https://www.uib.no/personer/Anne.Marie.Frøset'>Anne Marie Frøseth</a> i en ekspertkommentar i Tidsskrift for erstatningsrett, forsikringsrett og trygderett. Dommen markerer en klar kursendring i erstatningsretten og gjør Norge til et liberalt foregangsland i Europa. Men dommen kan også være prosesskapende.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/h%C3%B8yesteretts-ulleva%CC%8Al-dom-om-erstatning-for-psykisk-skade.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 66,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-24T13:00:00.000Z",
+    "title": "Endringer i lov om dyrevelferd (dyrevelferdsloven) er kommentert av forfatterne",
+    "description": "Verket er gjennomgått og ajourført av forfatterne per 1. mars 2019. Ajourføringen inneholder blant annet endringer i §§ 3-6, § 12, § 14, § 24, § 32, § 33 og § 37. Ny relevant rettspraksis er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 67,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-04-24T13:10:00.000Z",
+    "title": "Endringer i lov om skatteforvaltning (skatteforvaltningsloven) er kommentert av forfatter",
+    "description": "Verket er gjennomgått og ajourført av forfatter per 1. mars 2019. Endringer i lov og forskrift, samt relevant rettspraksis er kommentert og innarbeidet.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 68,
+    "has_full_page_article": false,
+    "type": "featured",
+    "published_at": "2019-04-25T13:00:00.000Z",
+    "title": "Driftsmelding: Juridika har i dag hatt tilgangsproblemer",
+    "description": "<p>Noen brukere har opplevd problemer med tilgangen sin i dag, mellom kl. 13:15 og 14:05. Vi har nå løst problemet, men brukere som fortsatt opplever problemer bør logge ut og inn igjen for å få oppdaterte tilganger.</p><p>Vi beklager ulempene dette kan ha medført.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 69,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-02T09:28:00.000Z",
+    "title": "Tilgang til fagbøker på Juridika",
+    "description": "<p>Fra 1.mai er bøker som er utgitt i 2018 ikke lenger beskyttet av bokavtalen, og bøkene er nå også tilgjengelig for alle med Juridika premium abonnement.</p><p>Har du ikke tilgang til bøker utgitt i 2019, bestill pakken Juridika Nye fagbøker på post@juridika.no, eller ta kontakt per telefon: 24 14 75 00.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 70,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-03T09:35:00.000Z",
+    "title": "Kommentaren til trafikkreglene er à jour og kommentert av forfatter",
+    "description": "<a href='/forskrift/1986-03-21-747'>Trafikkreglene</a> er gjennomgått og ajourført av forfatter med alle endringer samt praksis fra perioden 1. januar 2012 frem til 1 . januar 2019, dette i forbindelse med <a href='/fagbøker/vegtrafikkloven-og-trafikkreglene/6/dokument'>6. utgave av <em>Veg­trafikk­loven og trafikk­reglene, Lovkommentar</em></a>. Verket er således à jour per 1. januar 2019.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 71,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-03T09:35:00.000Z",
+    "title": "6. utgave av lovkommentaren til vegtrafikkloven er nå publisert på Juridika",
+    "description": "<a href='https://juridika.no/lov/1965-06-18-4'>Vegtrafikkloven</a> gir en samlet kommentar til vegtrafikkloven. Kommentarutgaven ble første gang utgitt i 1983 og foreligger nå i <a href='/fagbøker/vegtrafikkloven-og-trafikkreglene/6'>6. reviderte utgave</a>. Denne utgaven er i sin helhet revidert og ajourført med regelverksendringer og ny rettspraksis. Noen av kommentartekstene er omskrevet og forbedret, blant annet kommentaren til «grunnregelen» i vegtrafikkloven § 3. Lovkommentaren er à jour per 1. januar 2019.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": "krigsrettsekspert-aharon-barak-er-unntaket-som-bekrefter-regelen",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-05-10T12:38:00.000Z",
+    "title": "Krigsrettsekspert: Aharon Barak er unntaket som bekrefter regelen",
+    "description": "Krigsrettsekspert Sigrid Redse Johansen kjenner godt til Hans Petter Gravers «juss-helt» Aharon Barak. Den israelske høyesterettsdommeren som vil at domstoler blander seg i hva generalene gjør, er et internasjonalt unntakstilfelle.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-en-dommer-pa%CC%8A-slagmarken_3.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": "jussens-helter-en-dommer-på-slagmarken",
+    "serial_id": "jussens-helter",
+    "has_full_page_article": true,
+    "type": "serial_chapter",
+    "published_at": "2019-05-10T12:40:00.000Z",
+    "title": "Jussens helter 4: En dommer på slagmarken",
+    "description": "På slagmarken tier retten, sies det. Men historien om den israelske høyesterettspresidenten Aharon Barak er historien om en dommer som taler rettens sak, også midt i krig og terror.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-en-dommer-pa%CC%8A-slagmarken_2.jpg",
+    "contributors": [
+      {
+        "slug": "hans-petter-graver",
+        "names": [
+          "Hans",
+          "Petter",
+          "Graver"
+        ],
+        "occupation": "professor i rettsvitenskap, Universitetet i Oslo",
+        "tags": [],
+        "description": {},
+        "featured": true,
+        "id": "hans-petter-graver",
+        "hasPortrait": true,
+        "articles": {},
+        "editions": []
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 72,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-14T14:15:00.000Z",
+    "title": "Ny bok på Juridika: «Norsk arbeidsrett – styringsrett, samarbeid og arbeidstakervern» av Jan Fougner",
+    "description": "<a href='/fagbøker/norsk-arbeidsrett/1'>Norsk arbeidsrett</a> er et nytt standardverk innen arbeidsretten. <a href='/forfattere/jan-fougner'>Fougner</a> ser på helheten i faget på tvers av det tradisjonelle skillet mellom individuell og kollektiv arbeidsrett. Boken gir en beskrivelse av arbeidsrettens grunnleggende prinsipper og setter disse inn i en historisk og politisk sammenheng.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": "jussens-konspirasjonsteorier",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-05-16T10:15:00.000Z",
+    "title": "Jussens konspirasjonsteorier",
+    "description": "Jorda er flat, Paul McCartney er død, Elvis lever og Rotschild-familien eier verden. Konspirasjonsteori er i vinden. Visste du at det finnes et miljø i Norge som mener loven er falsk og tusenvis av dommer ugyldige? Jurister bør være bekymret for «frimann-bevegelsen», advarer eksperter.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/konspirasjonsteoriene-om-norske-jurister.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 73,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-16T14:25:00.000Z",
+    "title": "Ny lovkommentar på Juridika: Personopplysningsloven med ajourført versjon av personvernforordningen (GDPR)",
+    "description": "<p>Forfatterne av kommentarutgaven til GDPR er nå ute med ny kommentarutgave til personopplysningsloven.</p><p>Denne kommentarutgaven kan leses i bokform som pdf, eller som to ajourførte kommentarutgaver til personopplysningsloven og GDPR. Verkene er begge à jour per mars 2019.</p><p>Den 20. juli 2018 trådte en ny personopplysningslov i kraft i Norge. Loven gjennomfører EUs personvernforordning (GDPR) i norsk rett og inneholder også enkelte nasjonale særbestemmelser som supplerer forordningen. Personvernforordningen fastsetter vilkår for å behandle personopplysninger og gir individet en rekke rettigheter ved behandlingen. I tillegg gir den bestemmelser om tilsyn, erstatning og sanksjoner. Denne kommentarutgaven gir veiledning i hvordan de enkelte bestemmelsene i personopplysningsloven og personvernforordningen skal forstås og anvendes.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": "lanserer-grand-theory-om-arbeidsrett-og-gule-vester",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-05-21T09:40:00.000Z",
+    "title": "Lanserer «Grand Theory» om arbeidsrett og gule vester",
+    "description": "Advokat og jussprofessor Jan Fougner forsøker å forene arbeidsrettens to tradisjoner, kollektiv og individuell arbeidsrett, i en ny bok.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/lanserer-grand-theory-om-arbeidsrett-og-gule-vester.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 74,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-22T11:33:00.000Z",
+    "title": "Endringer i lov om konfliktrådsbehandling (konfliktrådsloven) er kommentert av forfatter.",
+    "description": "Verket er gjennomgått og ajourført av forfatter per 1. mai 2019. Ajourføringen inneholder blant annet ny § 9a. Relevant rettspraksis er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 75,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-22T11:40:00.000Z",
+    "title": "Ny lovkommentar på Juridika: Sivilbeskyttelsesloven.",
+    "description": "<p>Sivilbeskyttelsesloven gir rettslig uttrykk for hvordan Norge vil forebygge eller begrense skader som er natur- eller menneskeskapte. Typiske eksempler på uønskede hendelser er flom, kjemiske ulykker, brann og terrorangrep. Myndighetene kan i slike tilfeller fatte beslutninger om griper dypt inn i borgernes hverdag. De lovbestemte fullmaktene kan blant annet være pålegg om tvangsevakuering av befolkningen eller rekvisisjon av fast eiendom.</p><p>Lovkommentaren redegjør for hensynene bak bestemmelsene og gjør dem lettere tilgjengelig for dem som skal anvende reglene. Det pekes på mulige valg og juridiske konsekvenser av disse.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": "lynkurs-i-forvaltningsrett-slik-vinner-advokater-mot-forvaltningen",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-05-23T11:35:00.000Z",
+    "title": "Lynkurs i Forvaltningsrett: Slik vinner advokater mot forvaltningen",
+    "description": "– Mange advokater taper saker mot det offentlige fordi de ikke prosederer på saksbehandlingsfeil. Offentlige jurister bør forsvare seg med skjønn. Les råd fra Wiersholm-partner Stephan Jervell og siste års nytt fra domstolpraksis på forvaltningsrett.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/lynkurs-i-forvaltningsrett-slik-vinner-advokater-mot-forvaltningen.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      },
+      {
+        "id": "marie-isaksen",
+        "mail": null,
+        "names": [
+          "Marie",
+          "Isaksen"
+        ],
+        "occupation": "redaksjonskonsulent",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": "kommentar-til-høyesteretts-dom-i-hurtigrute-saken",
+    "has_full_page_article": true,
+    "type": "expert_comment",
+    "published_at": "2019-05-24T12:15:00.000Z",
+    "title": "Kommentar til Høyesteretts dom i Hurtigruten-saken",
+    "description": "En fersk høyestrettsdom om endringsoppsigelse i Hurtigruten får betydning for arbeidsrett. – Dommen er begynnelsen på en avklaring av arbeidsgivers rett til å endre vilkårene for en stilling. Men de konkrete omstendighetene fremheves så klart at dommen ikke gir den brede avklaring vi ventet på, skriver Wiersholm-partner Jan Fougner.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/SoMe-ekspert-jan-fougner.png",
+    "contributors": [
+      {
+        "id": "jan-fougner",
+        "mail": null,
+        "names": [
+          "Jan",
+          "Fougner"
+        ],
+        "tags": [],
+        "occupation": "partner i Wiersholm, Professor II, Handelshøyskolen BI",
+        "description": null,
+        "hasPortrait": true,
+        "featured": true
+      }
+    ],
     "html": null
   }
 ]
