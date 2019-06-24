@@ -38,7 +38,7 @@ input.text, input.search, textarea.textarea {
   -webkit-appearance: none;
 }
 
-li {
+.wufoo li {
   width: 100%;
 }
 
