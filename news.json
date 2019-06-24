@@ -977,7 +977,7 @@
     "published_at": "2018-12-19T13:01:00.000Z",
     "title": "Jussens helter 1: Dommeren i Scottsboro-saken",
     "description": "Av og til kan en dommer stå under et voldsomt press for å bryte med det han vet er lov og rett. James Edwin Horton dømte i en profilert gjengvoldtektsak i Decatur, Alabama i 1933.",
-    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-dommeren-i-scottsboro-saken3.jpg",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/jussens-helter-dommeren-i-scottsboro-saken3.png",
     "contributors": [
       {
         "slug": "hans-petter-graver",
@@ -1655,6 +1655,7 @@
           "Pryser",
           "Libell"
         ],
+        "occupation": "nyhetsredaktør Juridika",
         "tags": [],
         "description": null,
         "hasPortrait": false,
@@ -1672,6 +1673,118 @@
     "description": "<p>Forfatterne av kommentarutgaven til GDPR er nå ute med ny kommentarutgave til personopplysningsloven.</p><p>Denne kommentarutgaven kan leses i bokform som pdf, eller som to ajourførte kommentarutgaver til personopplysningsloven og GDPR. Verkene er begge à jour per mars 2019.</p><p>Den 20. juli 2018 trådte en ny personopplysningslov i kraft i Norge. Loven gjennomfører EUs personvernforordning (GDPR) i norsk rett og inneholder også enkelte nasjonale særbestemmelser som supplerer forordningen. Personvernforordningen fastsetter vilkår for å behandle personopplysninger og gir individet en rekke rettigheter ved behandlingen. I tillegg gir den bestemmelser om tilsyn, erstatning og sanksjoner. Denne kommentarutgaven gir veiledning i hvordan de enkelte bestemmelsene i personopplysningsloven og personvernforordningen skal forstås og anvendes.</p>",
     "imageUrl": null,
     "contributors": [],
+    "html": null
+  },
+  {
+    "id": "lanserer-grand-theory-om-arbeidsrett-og-gule-vester",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-05-21T09:40:00.000Z",
+    "title": "Lanserer «Grand Theory» om arbeidsrett og gule vester",
+    "description": "Advokat og jussprofessor Jan Fougner forsøker å forene arbeidsrettens to tradisjoner, kollektiv og individuell arbeidsrett, i en ny bok.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/lanserer-grand-theory-om-arbeidsrett-og-gule-vester.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": 74,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-22T11:33:00.000Z",
+    "title": "Endringer i lov om konfliktrådsbehandling (konfliktrådsloven) er kommentert av forfatter.",
+    "description": "Verket er gjennomgått og ajourført av forfatter per 1. mai 2019. Ajourføringen inneholder blant annet ny § 9a. Relevant rettspraksis er også innarbeidet og kommentert.",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": 75,
+    "has_full_page_article": false,
+    "type": "literature",
+    "published_at": "2019-05-22T11:40:00.000Z",
+    "title": "Ny lovkommentar på Juridika: Sivilbeskyttelsesloven.",
+    "description": "<p>Sivilbeskyttelsesloven gir rettslig uttrykk for hvordan Norge vil forebygge eller begrense skader som er natur- eller menneskeskapte. Typiske eksempler på uønskede hendelser er flom, kjemiske ulykker, brann og terrorangrep. Myndighetene kan i slike tilfeller fatte beslutninger om griper dypt inn i borgernes hverdag. De lovbestemte fullmaktene kan blant annet være pålegg om tvangsevakuering av befolkningen eller rekvisisjon av fast eiendom.</p><p>Lovkommentaren redegjør for hensynene bak bestemmelsene og gjør dem lettere tilgjengelig for dem som skal anvende reglene. Det pekes på mulige valg og juridiske konsekvenser av disse.</p>",
+    "imageUrl": null,
+    "contributors": [],
+    "html": null
+  },
+  {
+    "id": "lynkurs-i-forvaltningsrett-slik-vinner-advokater-mot-forvaltningen",
+    "has_full_page_article": true,
+    "type": "news_article",
+    "published_at": "2019-05-23T11:35:00.000Z",
+    "title": "Lynkurs i Forvaltningsrett: Slik vinner advokater mot forvaltningen",
+    "description": "– Mange advokater taper saker mot det offentlige fordi de ikke prosederer på saksbehandlingsfeil. Offentlige jurister bør forsvare seg med skjønn. Les råd fra Wiersholm-partner Stephan Jervell og siste års nytt fra domstolpraksis på forvaltningsrett.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/lynkurs-i-forvaltningsrett-slik-vinner-advokater-mot-forvaltningen.jpg",
+    "contributors": [
+      {
+        "id": "henrik-pryser-libell",
+        "mail": "henrik.pryser.libell@universitetforlaget.no",
+        "names": [
+          "Henrik",
+          "Pryser",
+          "Libell"
+        ],
+        "occupation": "nyhetsredaktør Juridika",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      },
+      {
+        "id": "marie-isaksen",
+        "mail": null,
+        "names": [
+          "Marie",
+          "Isaksen"
+        ],
+        "occupation": "redaksjonskonsulent",
+        "tags": [],
+        "description": null,
+        "hasPortrait": false,
+        "featured": true
+      }
+    ],
+    "html": null
+  },
+  {
+    "id": "kommentar-til-høyesteretts-dom-i-hurtigrute-saken",
+    "has_full_page_article": true,
+    "type": "expert_comment",
+    "published_at": "2019-05-24T12:15:00.000Z",
+    "title": "Kommentar til Høyesteretts dom i Hurtigruten-saken",
+    "description": "En fersk høyestrettsdom om endringsoppsigelse i Hurtigruten får betydning for arbeidsrett. – Dommen er begynnelsen på en avklaring av arbeidsgivers rett til å endre vilkårene for en stilling. Men de konkrete omstendighetene fremheves så klart at dommen ikke gir den brede avklaring vi ventet på, skriver Wiersholm-partner Jan Fougner.",
+    "imageUrl": "https://s3.eu-central-1.amazonaws.com/juridika-news-images/SoMe-ekspert-jan-fougner.png",
+    "contributors": [
+      {
+        "id": "jan-fougner",
+        "mail": null,
+        "names": [
+          "Jan",
+          "Fougner"
+        ],
+        "tags": [],
+        "occupation": "partner i Wiersholm, Professor II, Handelshøyskolen BI",
+        "description": null,
+        "hasPortrait": true,
+        "featured": true
+      }
+    ],
     "html": null
   }
 ]
