@@ -1,0 +1,93 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+#container,
+html.embed {
+  background: rgb(255, 243, 237);
+}
+
+body {
+  padding-top: 10px;
+  background: rgb(255, 235, 228);
+}
+
+.embed #container {
+  max-width: 500px;
+}
+
+#header {
+  display: none;
+}
+
+.wufoo li section {
+  border-top: solid 1px #e6dbd6;
+}
+
+li.notranslate.section.contact section {
+  border-top: none !important;
+}
+
+.wufoo li .section,
+.wufoo .section h3,
+.notranslate.section:first-child > section {
+  border-top: none;
+}
+
+select.select {
+  background: white;
+  border: solid 1px #e6dbd6;
+  padding: 15px 20px !important;
+  border-radius: 0;
+  box-shadow: none;
+  height: 3rem;
+}
+
+.wufoo label.desc,
+.wufoo legend.desc,
+label {
+  font-weight: 600;
+}
+
+input.text, input.search, textarea.textarea {
+  width: 100%;
+  padding: 0.9375rem 1.25rem;
+
+  border: solid 1px #e6dbd6;
+  border-radius: 0;
+  -webkit-border-radius: 0px;
+  outline: none;
+  -webkit-appearance: none;
+}
+
+.wufoo li {
+  width: 100%;
+}
+
+.wufoo li.focused{
+  background-color: transparent !important;
+}
+
+form li.section h3 {
+  border: none;
+}
+
+.companyForm,
+.planType,
+#req_120 {
+  display: none;
+}
+
+#saveForm {
+  height: 3.125rem;
+  padding: 0.875rem 2rem;
+  background: #291547;
+  border: none;
+  border-radius: 0;
+  -webkit-border-radius: 0px;
+  color: white;
+  outline: none;
+  -webkit-appearance: none;
+}
