@@ -42,7 +42,7 @@ input.text, input.search, textarea.textarea {
   width: 100%;
 }
 
-li.focused {
+.wufoo li.focused {
   background-color: transparent !important;
 }
 
