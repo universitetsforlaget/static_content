@@ -106,6 +106,20 @@ input.text, input.search, textarea.textarea {
   text-align: left !important;
 }
 
+.wufoo .instruct {
+  position: initial;
+  width: 100%;
+  height: 0;
+  border: 0;
+  padding: 0;
+}
+
+form li.focused .instruct, form li:hover .instruct {
+  margin: 8px 0;
+  padding: 8px 10px;
+  height: auto;
+}
+
 @media only screen and (min-width: 490px) {
   .contact span {
     flex: 0 0 calc(50% - 0.625rem);
