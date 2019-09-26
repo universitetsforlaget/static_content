@@ -1,0 +1,92 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+main {
+  margin: 2.5rem auto 0;
+  padding: 0 2.5rem;
+  width: 100%;
+  max-width: 56.25rem;
+}
+
+.top {
+  font-size: 1.125rem;
+}
+
+h1 {
+  margin-bottom: 1.25rem;
+  font-weight: 600;
+}
+
+.content {
+  margin-top: 3.125rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.auth0Lock {
+  flex: 1;
+  margin: 0 0 3.125rem 0;
+}
+
+.auth0-lock-widget {
+  border: 0.0625rem solid #d4d2d4;
+}
+
+.info {
+  flex: 2;
+}
+
+.loginInfo {
+  margin-bottom: 3.175rem;
+  display: flex;
+  font-size: 1rem;
+}
+
+.iconContainer {
+  margin-right: 1.625rem;
+}
+
+h2 {
+  margin: 0 0 0.625rem 0;
+}
+
+.loginOption {
+  margin-top: 2.5rem;
+}
+
+.loginOption svg {
+  margin-right: 0.5rem;
+  width: 1.0625rem;
+  height: 1.25rem;
+}
+
+.loginOption p {
+  margin: 0.5rem 0;
+}
+
+.loginOption a {
+  color: #0355b3;
+}
+
+@media only screen and (min-width: 768px) {
+  main {
+    margin-top: 5rem;
+  }
+
+  .content {
+    margin-top: 3.75rem;
+  }
+
+  .auth0Lock {
+    margin: 0 4.375rem 0 0;
+  }
+}
