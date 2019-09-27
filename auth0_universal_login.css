@@ -8,7 +8,7 @@ body {
   font-family: "Source Sans Pro", sans-serif;
 }
 
-main {
+.main {
   margin: 2.5rem auto 0;
   padding: 0 2.5rem;
   width: 100%;
@@ -26,14 +26,15 @@ h1 {
 
 .content {
   margin-top: 3.125rem;
-  display: flex;
   align-items: flex-start;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
 .auth0Lock {
-  flex: 1;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 6.25rem;
   margin: 0 0 3.125rem 0;
 }
 
@@ -42,7 +43,9 @@ h1 {
 }
 
 .infoSection {
-  flex: 2;
+  flex-grow: 2;
+  flex-shrink: 2;
+  flex-basis: 6.25rem;
 }
 
 .loginInfo {
@@ -84,6 +87,7 @@ h2 {
 
   .content {
     margin-top: 3.75rem;
+    display: flex;
   }
 
   .auth0Lock {
