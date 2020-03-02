@@ -16,5 +16,11 @@
     "type": "textbook",
     "shortTitle": "Konkurs­loven (kun PDF)",
     "category": ["fagbok", "juss", "kommentarutgave", "backlist"]
+  },
+  {
+    "id": "naturmangfoldloven",
+    "type": "textbook",
+    "shortTitle": "Natur­mangfold­loven (kun PDF)",
+    "category": ["fagbok", "juss", "kommentarutgave", "backlist"]
   }
 ]
