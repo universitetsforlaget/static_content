@@ -6,12 +6,6 @@
     "category": ["fagbok", "juss", "kommentarutgave", "backlist"]
   },
   {
-    "id": "shipbuilding-contracts",
-    "type": "textbook",
-    "shortTitle": "Ship­building Contracts (kun PDF, ajourføres ikke)",
-    "category": ["fagbok", "juss", "kommentarutgave", "frontlist"]
-  },
-  {
     "id": "konkursloven",
     "type": "textbook",
     "shortTitle": "Konkurs­loven (kun PDF)",

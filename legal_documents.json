@@ -40,6 +40,16 @@
     }
   },
   {
+    "shortTitle": "Eierseksjonsloven 2017",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2017-06-16",
+      "seq": 65,
+      "inForceAt": "2020-01-01"
+    }
+  },
+  {
     "shortTitle": "Straffegjennomføringsloven Kapittel 5",
     "exprId": {
       "base": "NL",
@@ -57,6 +67,16 @@
       "base": "NL",
       "seq": 679,
       "type": "lov"
+    }
+  },
+  {
+    "shortTitle": "Shipbuilding Contracts",
+    "exprId": {
+      "base": "NL",
+      "type": "forskrift",
+      "date": "2000-01-01",
+      "seq": 1,
+      "inForceAt": "2000-01-01"
     }
   }
 ]
