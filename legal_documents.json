@@ -78,5 +78,15 @@
       "seq": 1,
       "inForceAt": "2000-01-01"
     }
+  },
+  {
+    "shortTitle": "Veglova (ikke ajourført utgave fra 1998)",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "1963-06-21",
+      "seq": 23,
+      "inForceAt": "1997-06-19"
+    }
   }
 ]
