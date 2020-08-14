@@ -88,5 +88,25 @@
       "seq": 23,
       "inForceAt": "1997-06-19"
     }
+  },
+  {
+    "shortTitle": "Arvelova 1972 - (al. 1972)",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "1972-03-03",
+      "seq": 5,
+      "inForceAt": "2018-07-01"
+    }
+  },
+  {
+    "shortTitle": "Arveloven 2019",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2019-06-14",
+      "seq": 21,
+      "inForceAt": "2021-01-01"
+    }
   }
 ]
