@@ -90,7 +90,7 @@
     }
   },
   {
-    "shortTitle": "Arvelova 1972 - (al. 1972)",
+    "shortTitle": "Arvelova 1972 (Opphevet) - (al. 1972)",
     "exprId": {
       "base": "NL",
       "type": "lov",
@@ -107,6 +107,16 @@
       "date": "2019-06-14",
       "seq": 21,
       "inForceAt": "2021-01-01"
+    }
+  },
+  {
+    "shortTitle": "Skifteloven (Opphevet)",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "1930-02-21",
+      "seq": 0,
+      "inForceAt": "2019-01-01"
     }
   }
 ]
