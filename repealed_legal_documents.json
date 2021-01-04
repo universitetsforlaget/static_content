@@ -81,5 +81,31 @@
       "date": "2008-06-27",
       "seq": "71"
     }
+  },
+  {
+    "identifier": "1972-03-03-5",
+    "shortTitle": "Arvelova",
+    "mirror": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2019-06-14",
+      "seq": "21",
+      "published": true,
+      "fullTitle": "Lov 14. juni 2019 nr. 21 om arv og dødsboskifte",
+      "shortTitle": "Arveloven 2019"
+    }
+  },
+  {
+    "identifier": "1930-02-21-0",
+    "shortTitle": "Skifteloven",
+    "mirror": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2019-06-14",
+      "seq": "21",
+      "published": true,
+      "fullTitle": "Lov 14. juni 2019 nr. 21 om arv og dødsboskifte",
+      "shortTitle": "Arveloven 2019"
+    }
   }
 ]
