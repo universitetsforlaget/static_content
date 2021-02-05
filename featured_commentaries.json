@@ -16,5 +16,11 @@
     "type": "textbook",
     "shortTitle": "Natur­mangfold­loven (kun PDF)",
     "category": ["fagbok", "juss", "kommentarutgave", "backlist"]
+  },
+  {
+    "id": "eiendomsmeglingsloven",
+    "type": "textbook",
+    "shortTitle": "Eiendoms­meglings­loven (kun PDF)",
+    "category": ["fagbok", "juss", "kommentarutgave", "backlist"]
   }
 ]
