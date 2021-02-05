@@ -22,5 +22,11 @@
     "type": "textbook",
     "shortTitle": "Eiendoms­meglings­loven (kun PDF)",
     "category": ["fagbok", "juss", "kommentarutgave", "backlist"]
+  },
+  {
+    "id": "ns-8405",
+    "type": "textbook",
+    "shortTitle": "NS 8405 (kun PDF)",
+    "category": ["fagbok", "juss", "kommentarutgave", "backlist"]
   }
 ]
