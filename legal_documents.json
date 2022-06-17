@@ -100,7 +100,7 @@
     }
   },
   {
-    "shortTitle": "Arveloven 2019",
+    "shortTitle": "Arveloven 2019 (§ 1-§ 82)",
     "exprId": {
       "base": "NL",
       "type": "lov",
@@ -117,6 +117,16 @@
       "date": "1930-02-21",
       "seq": 0,
       "inForceAt": "2019-01-01"
+    }
+  },
+  {
+    "shortTitle": "Vergemålsloven kapittel 10 og 12",
+    "exprId": {
+      "base": "NL",
+      "type": "lov",
+      "date": "2010-03-26",
+      "seq": 9,
+      "inForceAt": "2021-07-01"
     }
   }
 ]
