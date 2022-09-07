@@ -1,0 +1,118 @@
+[
+  {
+    "label": "Arbeidsliv, HR og ledelse",
+    "price": 3690,
+    "included": false,
+    "details": [
+      "Individuell arbeidsrett",
+      " Kollektiv arbeidsrett",
+      " Personvernrett",
+      "Trygderett"
+    ]
+  },
+  {
+    "label": "Eiendom",
+    "price": 4690,
+    "included": false,
+    "details": ["Plan- og bygningsrett", "Eiendomsrett", "Enterpriserett"]
+  },
+  {
+    "label": "Person, familie og arv",
+    "price": 3690,
+    "included": false,
+    "details": [
+      "Idrettsjuss",
+      "Arverett",
+      "Barnerett",
+      "Barnevernsrett",
+      "Familierett",
+      "Trygderett",
+      "Velferdsrett",
+      "Menneskerettigheter",
+      "EMK",
+      "Likestillings- og diskrimineringsrett",
+      "Personskadeerstatningsrett",
+      "Idrettsjuss",
+      "Forbrukerett"
+    ]
+  },
+  {
+    "label": "Konkurranse, compliance, finans og forsikring",
+    "price": 4690,
+    "included": false,
+    "details": [
+      "Personvernrett",
+      "Offentlige anskaffelser",
+      "Konkurranserett",
+      "Finansregulatorisk",
+      "Forsikringsrett",
+      "Erstatningsrett",
+      "Medierett"
+    ]
+  },
+  {
+    "label": "Off. styring, forvaltning og anskaffelser",
+    "price": 4690,
+    "included": false,
+    "details": [
+      "Forvaltningsrett",
+      "Offentlige anskaffelser",
+      "Kommunalrett",
+      "Helserett",
+      "Statsstøtterett",
+      "Trygderett",
+      "Utlendingsrett",
+      "Velferdsrett",
+      "Folkerett",
+      "Energirett",
+      "Klimarett",
+      "Statsrett",
+      "Opplæring"
+    ]
+  },
+  {
+    "label": "Prosess",
+    "price": 5690,
+    "included": false,
+    "details": [
+      "Politirett",
+      "EMK",
+      "Sivilprosess",
+      "Strafferett",
+      "Straffeprosess"
+    ]
+  },
+  {
+    "label": "Kontrakter, selskap og skatt",
+    "price": 6690,
+    "included": false,
+    "details": [
+      "Formuerett",
+      "Gjeldsrett",
+      "Konkursrett",
+      "Panterett",
+      "Tingsrett",
+      "Tvangfullbyrdelese",
+      "Avtalerett",
+      "Kontraktsrett",
+      "Kjøpsrett",
+      "Obligasjonsrett",
+      "Immaterialrett",
+      "Opphavsrett",
+      "Patentrett",
+      "Selskapsrett",
+      "Næingsrett",
+      "Skatte- og avgiftsrett",
+      "Sjørett",
+      "Transportrett"
+    ]
+  },
+  {
+    "label": "EØS-rett",
+    "included": true
+  },
+  {
+    "label": "Metode",
+    "included": true
+  }
+]
